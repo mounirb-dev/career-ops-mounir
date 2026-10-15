@@ -12,3 +12,9 @@ fecha,empresa,puesto,url,fuente,score,decision,cv_generado
 2026-10-15,actima,Programador Junior JS/Node/React - decision=descartada: oferta finalizada
 2026-10-15,zylon,careers solo en LinkedIn - decision=descartada: sin oferta verificable (LinkedIn prohibido)
 2026-10-15,logicalis,Desarrollador Agentes IA - decision=descartada: perfil senior AWS
+2026-10-15,ruby labs,Middle Full-Stack Developer (Next.js/Node) + Accounting Automation Engineer,https://builtin.com/job/middle-full-stack-developer/8326457,Built In / Jobicy,2.4,descartada (oferta retirada mar-2026; pide 2+ anios Next 14/15 + NestJS/Prisma/Redis/BullMQ; el de automatizacion contable exige IFRS/GAAP),
+2026-10-15,nubo,n8n + AI Automation Builder (freelance),https://community.n8n.io/t/espanol-looking-for-an-n8n-ai-automation-builder-for-ongoing-freelance-work/314555,Comunidad n8n,3.6,candidatura espontanea (freelance; pide n8n fuerte y GoHighLevel; sin contacto publico; salario no publicado),
+2026-10-15,alongside,Fullstack Developer (React/Next.js/Node),https://jobs.workable.com/jobs/7202c5b6-7ae5-4a40-a7d0-c208768259cc,Workable,1.9,descartada (remoto basado en Vietnam; 3 anios; ingles bueno; 12-16 USD/h),
+2026-10-15,kruger nearshore (rekluti),Desarrollador Full Stack,https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062,Remote OK,1.2,descartada (solo LATAM; 5+ anios; Python/Go/Angular),
+2026-10-15,joppy,Full Stack Developer (NodeJS/React) 25-31K EUR,https://www.devjobsscanner.com/company/joppy/,DevJobsScanner,0,descartada (anuncio original solo en LinkedIn; no verificable),
+2026-10-15,iddtek,Desarrollador WebApp ReactJS (Durango),https://admin.bizkaiatalent.eus/pdf/job-offers/5639,Bizkaia Talent,0,descartada (pide ingles; backend .NET/PHP; oferta no verificable),
