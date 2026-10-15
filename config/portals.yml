@@ -1,41 +1,44 @@
-# NO usar LinkedIn. Fuentes adaptadas al CV (Espana, junior, JS/React/Next, IA/automatizacion).
+# NO usar LinkedIn. Fuentes adaptadas al CV (Espana, JS/React/Next/Node, IA/automatizacion).
 excluded_domains:
   - linkedin.com
-boards_es:
-  - name: Tecnoempleo
-    url: https://www.tecnoempleo.com/
-    queries: ["junior react", "junior javascript", "junior full stack", "junior node", "desarrollador web junior", "n8n", "automatizacion"]
-  - name: InfoJobs
-    url: https://www.infojobs.net/
-    queries: ["desarrollador web junior", "programador javascript junior", "react junior", "programador web sin titulacion"]
-  - name: Indeed Espana
-    url: https://es.indeed.com/
-    queries: ["desarrollador web junior remoto", "programador react junior", "full stack junior pais vasco"]
+
+# PRIORIDAD 1: empresas que NO aparecen en portales grandes (pymes, agencias, startups, factorias de software)
+small_companies_discovery:
+  how:
+    - Buscar en Google/Bing con dorks: "trabaja con nosotros" desarrollador web junior Gipuzkoa / Bizkaia / Alava / Navarra / remoto Espana
+    - Buscar: "estamos contratando" OR "unete a nuestro equipo" desarrollador react / node / full stack + ciudad
+    - Buscar en paginas de empresa: /careers, /empleo, /trabaja-con-nosotros, /jobs, /join-us
+    - Directorios de empresas tech locales: Cluster GAIA, Basque Digital Innovation Hub (BDIH), Beaz/Bizkaia Talent, Fomento San Sebastian, Parque Tecnologico Gipuzkoa/Zamudio/Alava, Barrio Tecnologico, Bilbao Berrikuntza, Digital Basque Country
+    - Agencias web, estudios de desarrollo, ecommerce (Shopify/WordPress/PrestaShop), consultoras de IA/automatizacion, startups locales (Wellfound, Crunchbase ES, Startup Spain)
+    - Redes sociales NO-LinkedIn: X/Twitter, Reddit (r/empleo, r/programacion, r/devsarg), Telegram/Discord de empleo dev en espanol, Mastodon, GitHub Jobs-style repos y READMEs 'hiring'
+    - Hacker News 'Who is hiring' (filtrar Espana/sin ingles) y comunidades hispanas de empleo tech
+  rules:
+    - Evitar grandes multinacionales y consultoras gigantes; buscar equipos de 2-100 personas
+    - Registrar la web de la empresa en data/seen.csv aunque no haya oferta abierta: contacto directo (email/formulario) como candidatura espontanea sugerida
+
+# PRIORIDAD 2: portales pequenos / ATS directos
+small_boards:
   - name: Lanbide / Euskadi Empleo
     url: https://www.lanbide.euskadi.eus/
-    queries: ["programador", "desarrollador web"]
-  - name: Jooble Espana
+  - name: Jooble / Talent.com / Jobtoday / Opcionempleo
     url: https://es.jooble.org/
-    queries: ["desarrollador web junior", "react junior"]
-  - name: Glassdoor Espana
-    url: https://www.glassdoor.es/
-    queries: ["desarrollador web junior"]
-  - name: Welcome to the Jungle Espana
-    url: https://www.welcometothejungle.com/es
-    queries: ["desarrollador junior", "frontend junior"]
-  - name: Opcionempleo / Trabajos.com / Talent.com
-    url: https://www.talent.com/
-    queries: ["desarrollador web junior"]
-boards_remote:
-  - name: Remote OK / We Work Remotely / Remotive / Working Nomads
-    note: casi todo pide ingles -> solo conservar ofertas que NO lo exijan o sean de empresas espanolas
-  - name: Wellfound / Otta / Torre
-    note: igual, filtrar por ingles
-company_ats_boards:
-  # career-ops escanea paginas de empleo directas (Greenhouse / Ashby / Lever) de empresas espanolas
-  - site:boards.greenhouse.io Espana junior developer
-  - site:jobs.lever.co Espana desarrollador junior
-  - site:jobs.ashbyhq.com Spain junior developer
-  - paginas "trabaja con nosotros" de consultoras y software factories del Pais Vasco (Ibermatica, Tecnalia, Ikerlan, Vicomtech, Sherpa, Mondragon, Danobat, etc.)
+  - name: Trabajos.com / Milanuncios Empleo / Joblers / Domestika Jobs
+  - name: Remote OK / We Work Remotely / Remotive / Working Nomads (solo ofertas sin ingles)
+  - name: Wellfound / Torre / Otta (solo si no piden ingles)
+  - name: ATS directos de empresas espanolas
+    queries:
+      - site:boards.greenhouse.io Espana desarrollador
+      - site:jobs.lever.co Espana desarrollador
+      - site:jobs.ashbyhq.com Spain developer
+      - site:*.workable.com Espana desarrollador web
+      - site:*.teamtailor.com desarrollador web Espana
+      - site:*.personio.de/job desarrollador Espana
+      - site:*.recruitee.com desarrollador web Espana
+      - site:*.bamboohr.com/careers desarrollador Espana
+
+# PRIORIDAD 3: portales grandes (solo como complemento)
+big_boards:
+  - Tecnoempleo, InfoJobs, Indeed Espana, Glassdoor Espana, Welcome to the Jungle Espana
+
 search_tips:
-  - buscar frases: "no se requiere titulacion", "sin titulacion", "valorable formacion", "certificado de profesionalidad", "salario 24.000", "2.000 EUR/mes"
+  - frases clave: "no se requiere titulacion", "sin titulacion", "certificado de profesionalidad", "valorable formacion", "2 anios de experiencia", "salario 24.000", "2.000 EUR/mes", "teletrabajo", "100% remoto"

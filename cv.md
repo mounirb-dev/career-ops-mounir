@@ -6,11 +6,10 @@ Bergara, Gipuzkoa, Pais Vasco (Espana) | mouunirbella32@gmail.com | +34 631 10 6
 
 ## Perfil profesional
 
-Desarrollador web junior con 1 anio de experiencia practica programando, especializado en el ecosistema JavaScript moderno (Next.js, React, Node.js, Tailwind CSS) y en la integracion de herramientas de Inteligencia Artificial (Claude, OpenAI Codex, Cursor, Ollama, n8n) en flujos de desarrollo y automatizacion. Experiencia autodidacta reforzada con certificaciones profesionales de Lanbide en desarrollo de software. Actualmente en proceso de acceso al Grado Superior en Desarrollo de Aplicaciones Web (DAW). Capacidad demostrada para construir, desplegar y mantener aplicaciones web completas, desde el frontend hasta la infraestructura en servidores propios.
+Desarrollador web con 2 anios de experiencia practica programando, especializado en el ecosistema JavaScript moderno (Next.js, React, Node.js, Tailwind CSS) y en la integracion de herramientas de Inteligencia Artificial (Claude, OpenAI Codex, Cursor, Ollama, n8n) en flujos de desarrollo y automatizacion. Formacion autodidacta reforzada con certificaciones profesionales de Lanbide en desarrollo de software. Capacidad demostrada para construir, desplegar y mantener aplicaciones web completas, desde el frontend hasta la infraestructura en servidores propios.
 
 ## Formacion
 
-- Grado Superior en Desarrollo de Aplicaciones Web (DAW) - En proceso de acceso, Formacion Profesional, Espana
 - Certificado de Profesionalidad: Confeccion y Publicacion de Paginas Web - Lanbide (Servicio Vasco de Empleo), Pais Vasco
 - Certificado de Profesionalidad: Desarrollo de Aplicaciones con Tecnologias Web - Lanbide (Servicio Vasco de Empleo), Pais Vasco
 

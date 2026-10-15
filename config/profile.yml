@@ -2,14 +2,15 @@ candidate:
   name: Mounir Bella
   location: Bergara, Gipuzkoa, Pais Vasco, Espana
   language_cv: es
+  experience_years: 2
 target_roles:
-  - Desarrollador Web Junior
-  - Desarrollador Full Stack Junior (JavaScript)
-  - Desarrollador Frontend Junior (React / Next.js)
-  - Desarrollador Node.js Junior
-  - Automatizacion / IA aplicada (n8n, integraciones con LLM) junior
-  - Desarrollador WordPress / web junior
-seniority: junior (1 anio de experiencia practica)
+  - Desarrollador Web Junior / Semi-senior
+  - Desarrollador Full Stack (JavaScript / Node.js)
+  - Desarrollador Frontend (React / Next.js)
+  - Desarrollador Node.js
+  - Automatizacion / IA aplicada (n8n, integraciones con LLM)
+  - Desarrollador WordPress / web
+seniority: junior-mid (2 anios de experiencia practica)
 filters:
   # PRIORIDAD 1: ofertas que NO exijan titulacion academica (valen certificados Lanbide / portfolio / experiencia)
   prefer_no_degree_required: true
@@ -18,18 +19,23 @@ filters:
   min_salary_eur_year_gross: 24000
   # Si la oferta es remota (o hibrida con mucha remota): NO debe exigir ingles.
   remote_requires_no_english: true
-  # Presencial/hibrido: solo si es cerca de Bergara (Gipuzkoa, Bizkaia, Alava, Navarra norte) y tampoco exigir ingles avanzado.
   max_english_level_allowed: ninguno / basico
+  max_experience_required_years: 3   # 2 anios reales; aceptar hasta '2-3 anios'
   geography:
     on_site_hybrid: [Gipuzkoa, Bizkaia, Alava, Navarra, Pais Vasco]
     remote: Espana
 discard_if:
   - exige grado/ingenieria/titulacion universitaria obligatoria
-  - exige 3+ anios de experiencia
+  - exige 4+ anios de experiencia
   - exige ingles B2 o superior
   - salario publicado < 2000 EUR/mes
   - es de LinkedIn (no usar LinkedIn como fuente)
   - empresa ya registrada en data/seen.csv
+source_priority:
+  # Las empresas PEQUENAS/MEDIANAS que NO anuncian en portales grandes son prioridad: menos competencia y suelen no exigir titulacion.
+  - 1: paginas 'trabaja con nosotros' / 'careers' propias de pymes, agencias web, software factories y startups
+  - 2: portales pequenos / ATS directos / comunidades
+  - 3: portales grandes (Tecnoempleo, InfoJobs, Indeed)
 scoring:
   threshold_apply: 4.0
   weights:
