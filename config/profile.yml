@@ -17,9 +17,11 @@ filters:
   # PRIORIDAD 2: salario >= 2000 EUR/mes (equivale a >= 24000 EUR/anio bruto). Si no hay salario publicado, marcar 'salario?' y puntuar menos.
   min_salary_eur_month: 2000
   min_salary_eur_year_gross: 24000
-  # Si la oferta es remota (o hibrida con mucha remota): NO debe exigir ingles.
-  remote_requires_no_english: true
-  max_english_level_allowed: ninguno / basico
+  # INGLES: se acepta ingles BASICO. Sirve en ofertas remotas y startups de IA.
+  english_policy:
+    accepted: [ninguno, basico, A1, A2, 'lectura de documentacion tecnica', 'ingles basico valorable']
+    penalize: ['ingles intermedio B1', 'conversacional']   # puntuar menos, no descartar de golpe
+    reject: ['B2', 'C1', 'C2', 'fluido', 'bilingue', 'native', 'ingles avanzado', 'entrevista en ingles']
   max_experience_required_years: 3   # 2 anios reales; aceptar hasta '2-3 anios'
   geography:
     on_site_hybrid: [Gipuzkoa, Bizkaia, Alava, Navarra, Pais Vasco]
@@ -27,13 +29,13 @@ filters:
 discard_if:
   - exige grado/ingenieria/titulacion universitaria obligatoria
   - exige 4+ anios de experiencia
-  - exige ingles B2 o superior
+  - exige ingles B2 o superior / fluido / avanzado
   - salario publicado < 2000 EUR/mes
   - es de LinkedIn (no usar LinkedIn como fuente)
   - empresa ya registrada en data/seen.csv
 source_priority:
-  # Las empresas PEQUENAS/MEDIANAS que NO anuncian en portales grandes son prioridad: menos competencia y suelen no exigir titulacion.
-  - 1: paginas 'trabaja con nosotros' / 'careers' propias de pymes, agencias web, software factories y startups
+  - 1: startups y empresas de IA/automatizacion (config/ai_startups.yml)
+  - 1: paginas 'trabaja con nosotros' / careers de pymes, agencias web y software factories (config/portals.yml)
   - 2: portales pequenos / ATS directos / comunidades
   - 3: portales grandes (Tecnoempleo, InfoJobs, Indeed)
 scoring:
@@ -42,5 +44,5 @@ scoring:
     match_tecnologias: 0.30
     sin_titulacion_requerida: 0.25
     salario_>=2000: 0.20
-    sin_ingles: 0.15
+    ingles_compatible_basico: 0.15
     ubicacion_remoto_o_cerca: 0.10
