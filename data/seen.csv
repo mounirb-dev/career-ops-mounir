@@ -18,3 +18,6 @@ fecha,empresa,puesto,url,fuente,score,decision,cv_generado
 2026-10-15,kruger nearshore (rekluti),Desarrollador Full Stack,https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062,Remote OK,1.2,descartada (solo LATAM; 5+ anios; Python/Go/Angular),
 2026-10-15,joppy,Full Stack Developer (NodeJS/React) 25-31K EUR,https://www.devjobsscanner.com/company/joppy/,DevJobsScanner,0,descartada (anuncio original solo en LinkedIn; no verificable),
 2026-10-15,iddtek,Desarrollador WebApp ReactJS (Durango),https://admin.bizkaiatalent.eus/pdf/job-offers/5639,Bizkaia Talent,0,descartada (pide ingles; backend .NET/PHP; oferta no verificable),
+2026-10-15,attek solutions,Junior Fullstack Developer (Next.js),https://remotive.com/remote/jobs/software-development/junior-fullstack-developer-focus-next-js-6052889,Remotive,1.5,descartada (solo Alemania; exige titulo informatica; oferta en aleman),
+2026-10-15,hivex,Junior Full-Stack Developer,https://djinni.co/jobs/798350-full-stack-developer,Djinni,1.0,descartada (ingles B2; oferta inactiva; candidatos Ucrania),
+2026-10-15,a2r crew,Full Stack Developer (Node/TS/React) 30-50K EUR,https://es.jooble.org/jdp/-807424979814074724,Jooble,3.6,descartada (no verificable en web de empresa; TypeScript/PostgreSQL no en cv.md; version pide 3+ anios Node/TS),
