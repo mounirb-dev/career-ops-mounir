@@ -1,0 +1,40 @@
+# Busqueda dirigida: startups y empresas de IA / automatizacion / programacion asistida por IA
+# Perfil encaja por: Claude, Codex, Cursor, Ollama, Groq, Manus, n8n, MCP, Next.js/React/Node, Dokploy/VPS.
+# Aplica los mismos filtros de profile.yml (sin LinkedIn, no repetir empresas de seen.csv, no inventar en el CV).
+
+target_companies:
+  - startups tipo Manus / agentes autonomos de IA
+  - startups de agentes IA, copilotos y asistentes (LLM apps)
+  - empresas de automatizacion de procesos con IA (n8n, Make, Zapier, RPA)
+  - consultoras y agencias de IA / automatizacion para pymes
+  - SaaS que contratan programadores que trabajen CON herramientas de IA (vibe coding, AI-assisted dev)
+  - empresas de integracion de LLM / RAG / chatbots / MCP servers
+
+roles_to_match:
+  - AI Engineer junior / Ingeniero de IA aplicada
+  - Desarrollador Full Stack con IA / AI-assisted developer
+  - Automation Engineer / Especialista en automatizacion (n8n)
+  - Prompt / Agent engineer junior, LLM integration developer
+  - Desarrollador Next.js / Node.js en producto de IA
+  - Forward deployed / solutions engineer junior
+
+where_to_search:
+  directories:
+    - Wellfound (AngelList), Y Combinator Work at a Startup, Product Hunt (empresas nuevas de IA), There's An AI For That, Futurepedia, Crunchbase
+    - Startup Spain / EsTech / Spain Startup, Barrio Tecnologico, Basque Digital Innovation Hub, ENISA, Seed Capital Bizkaia/Gipuzkoa
+    - GitHub: repos 'awesome-ai-agents', 'awesome-mcp-servers', READMEs con 'we are hiring' / 'careers'
+    - Comunidades: n8n community (jobs), Discord/Slack de agentes IA, Reddit r/n8n r/AI_Agents r/LocalLLaMA (hiring), X/Twitter 'hiring' + IA, Hacker News 'Who is hiring'
+    - ATS directos de startups: jobs.ashbyhq.com, jobs.lever.co, boards.greenhouse.io, *.workable.com, *.teamtailor.com, *.recruitee.com, wellfound.com/company/*/jobs
+  queries:
+    - "AI engineer junior" Espana remoto sin ingles
+    - "desarrollador full stack" "inteligencia artificial" startup Espana
+    - "automatizacion" n8n desarrollador oferta Espana
+    - "agentes de IA" startup Espana contratando desarrollador
+    - "vibe coding" OR "AI-assisted" desarrollador junior
+    - startup IA Pais Vasco / Bizkaia / Gipuzkoa contratando
+
+rules:
+  - Prioridad: startups pequenas (2-50 personas) y empresas espanolas o hispanohablantes.
+  - IMPORTANTE: muchas startups de IA (p.ej. Manus) exigen ingles. Respetar el filtro de profile.yml: si piden ingles en oferta remota -> puntuar bajo o descartar; si son hispanohablantes o no piden ingles -> prioridad alta.
+  - Si no hay oferta abierta pero la startup encaja muy bien (usa n8n/MCP/Next.js/agentes), anadirla al informe como 'Candidatura espontanea' con contacto y borrador de mensaje de 4-5 lineas, destacando proyectos reales de cv.md (automatizaciones n8n, integraciones IA, despliegues Dokploy/VPS).
+  - En el CV optimizado, enfatizar herramientas de IA/automatizacion SOLO si estan en cv.md.
