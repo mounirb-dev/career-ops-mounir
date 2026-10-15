@@ -1,0 +1,19 @@
+# Analisis de requisitos: para CADA oferta candidata, comparar sus requisitos con cv.md ANTES de puntuar.
+
+steps:
+  1: Extraer de la oferta la lista de requisitos (tecnologias, anios de experiencia, titulacion, idiomas, certificaciones, soft skills, ubicacion/contrato).
+  2: Marcar cada requisito contra cv.md con una de estas etiquetas, citando la linea o seccion de cv.md que lo respalda:
+     - CUMPLE: esta explicito en cv.md (p.ej. React, Next.js, Node.js, Tailwind, Supabase, n8n, Docker, Git, MCP, Stripe, Dokploy)
+     - PARCIAL: hay algo cercano (p.ej. pide Vue y el CV tiene React; pide PostgreSQL y el CV tiene Supabase, que usa PostgreSQL)
+     - NO CUMPLE: no aparece en cv.md
+     - NO VERIFICABLE: depende de algo que cv.md no dice (p.ej. nivel de ingles, disponibilidad, pretension salarial)
+  3: Calcular % de requisitos OBLIGATORIOS cumplidos (CUMPLE=1, PARCIAL=0.5) y listar los 'gaps'.
+  4: Usar ese % en el score (match_tecnologias). Descartar si faltan requisitos obligatorios criticos (titulacion obligatoria, 4+ anios, ingles B2+).
+  5: En el informe, por cada oferta, incluir tabla 'Requisito | Estado | Evidencia en CV' y una linea 'Gaps a cubrir' con sugerencias honestas (que aprender o que proyecto del portfolio destacar).
+
+rules:
+  - Nunca marques CUMPLE sin evidencia en cv.md. No asumas habilidades que no esten escritas.
+  - Para anios de experiencia: Mounir tiene 2 anios; 'hasta 2-3 anios' = CUMPLE/PARCIAL, '4+' = NO CUMPLE.
+  - Para titulacion: cv.md solo tiene certificados de profesionalidad Lanbide (no grado/FP). Si la oferta pide titulacion 'valorable' = PARCIAL; 'obligatoria' = NO CUMPLE.
+  - El CV optimizado (cvs/) solo reordena y reescribe con lo que SI esta en cv.md; los gaps nunca se anaden al CV como si se tuvieran.
+  - Anade al informe un resumen final: top 3 gaps mas repetidos entre las ofertas evaluadas (para que Mounir sepa que aprender).
