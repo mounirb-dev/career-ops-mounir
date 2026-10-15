@@ -1,0 +1,40 @@
+candidate:
+  name: Mounir Bella
+  location: Bergara, Gipuzkoa, Pais Vasco, Espana
+  language_cv: es
+target_roles:
+  - Desarrollador Web Junior
+  - Desarrollador Full Stack Junior (JavaScript)
+  - Desarrollador Frontend Junior (React / Next.js)
+  - Desarrollador Node.js Junior
+  - Automatizacion / IA aplicada (n8n, integraciones con LLM) junior
+  - Desarrollador WordPress / web junior
+seniority: junior (1 anio de experiencia practica)
+filters:
+  # PRIORIDAD 1: ofertas que NO exijan titulacion academica (valen certificados Lanbide / portfolio / experiencia)
+  prefer_no_degree_required: true
+  # PRIORIDAD 2: salario >= 2000 EUR/mes (equivale a >= 24000 EUR/anio bruto). Si no hay salario publicado, marcar 'salario?' y puntuar menos.
+  min_salary_eur_month: 2000
+  min_salary_eur_year_gross: 24000
+  # Si la oferta es remota (o hibrida con mucha remota): NO debe exigir ingles.
+  remote_requires_no_english: true
+  # Presencial/hibrido: solo si es cerca de Bergara (Gipuzkoa, Bizkaia, Alava, Navarra norte) y tampoco exigir ingles avanzado.
+  max_english_level_allowed: ninguno / basico
+  geography:
+    on_site_hybrid: [Gipuzkoa, Bizkaia, Alava, Navarra, Pais Vasco]
+    remote: Espana
+discard_if:
+  - exige grado/ingenieria/titulacion universitaria obligatoria
+  - exige 3+ anios de experiencia
+  - exige ingles B2 o superior
+  - salario publicado < 2000 EUR/mes
+  - es de LinkedIn (no usar LinkedIn como fuente)
+  - empresa ya registrada en data/seen.csv
+scoring:
+  threshold_apply: 4.0
+  weights:
+    match_tecnologias: 0.30
+    sin_titulacion_requerida: 0.25
+    salario_>=2000: 0.20
+    sin_ingles: 0.15
+    ubicacion_remoto_o_cerca: 0.10

@@ -1,0 +1,41 @@
+# NO usar LinkedIn. Fuentes adaptadas al CV (Espana, junior, JS/React/Next, IA/automatizacion).
+excluded_domains:
+  - linkedin.com
+boards_es:
+  - name: Tecnoempleo
+    url: https://www.tecnoempleo.com/
+    queries: ["junior react", "junior javascript", "junior full stack", "junior node", "desarrollador web junior", "n8n", "automatizacion"]
+  - name: InfoJobs
+    url: https://www.infojobs.net/
+    queries: ["desarrollador web junior", "programador javascript junior", "react junior", "programador web sin titulacion"]
+  - name: Indeed Espana
+    url: https://es.indeed.com/
+    queries: ["desarrollador web junior remoto", "programador react junior", "full stack junior pais vasco"]
+  - name: Lanbide / Euskadi Empleo
+    url: https://www.lanbide.euskadi.eus/
+    queries: ["programador", "desarrollador web"]
+  - name: Jooble Espana
+    url: https://es.jooble.org/
+    queries: ["desarrollador web junior", "react junior"]
+  - name: Glassdoor Espana
+    url: https://www.glassdoor.es/
+    queries: ["desarrollador web junior"]
+  - name: Welcome to the Jungle Espana
+    url: https://www.welcometothejungle.com/es
+    queries: ["desarrollador junior", "frontend junior"]
+  - name: Opcionempleo / Trabajos.com / Talent.com
+    url: https://www.talent.com/
+    queries: ["desarrollador web junior"]
+boards_remote:
+  - name: Remote OK / We Work Remotely / Remotive / Working Nomads
+    note: casi todo pide ingles -> solo conservar ofertas que NO lo exijan o sean de empresas espanolas
+  - name: Wellfound / Otta / Torre
+    note: igual, filtrar por ingles
+company_ats_boards:
+  # career-ops escanea paginas de empleo directas (Greenhouse / Ashby / Lever) de empresas espanolas
+  - site:boards.greenhouse.io Espana junior developer
+  - site:jobs.lever.co Espana desarrollador junior
+  - site:jobs.ashbyhq.com Spain junior developer
+  - paginas "trabaja con nosotros" de consultoras y software factories del Pais Vasco (Ibermatica, Tecnalia, Ikerlan, Vicomtech, Sherpa, Mondragon, Danobat, etc.)
+search_tips:
+  - buscar frases: "no se requiere titulacion", "sin titulacion", "valorable formacion", "certificado de profesionalidad", "salario 24.000", "2.000 EUR/mes"
