@@ -4,45 +4,54 @@ candidate:
   language_cv: es
   experience_years: 2
 target_roles:
-  - Desarrollador Web Junior / Semi-senior
-  - Desarrollador Full Stack (JavaScript / Node.js)
-  - Desarrollador Frontend (React / Next.js)
-  - Desarrollador Node.js
-  - Automatizacion / IA aplicada (n8n, integraciones con LLM)
+  # NO limitarse a titulos 'junior': buscar tambien Full Stack / Web / Frontend / Backend Node sin etiqueta de seniority
+  # (con 2 anios encajan puestos 'Full Stack Developer', 'Web Developer', 'Software Engineer' que pidan hasta 2-3 anios)
+  - Full Stack Developer (JavaScript / TypeScript / Node.js / React / Next.js)  # prioridad
+  - Desarrollador Web / Software Developer
+  - Frontend Developer (React / Next.js)
+  - Backend Developer Node.js
+  - Automatizacion / IA aplicada (n8n, integraciones con LLM, agentes)
   - Desarrollador WordPress / web
-seniority: junior-mid (2 anios de experiencia practica)
+  - Junior / Semi-senior en cualquiera de los anteriores
+seniority: junior-mid (2 anios de experiencia practica); excluir solo titulos Senior/Lead/Staff/Principal o que pidan 4+ anios
 filters:
   # PRIORIDAD 1: ofertas que NO exijan titulacion academica (valen certificados Lanbide / portfolio / experiencia)
   prefer_no_degree_required: true
-  # PRIORIDAD 2: salario >= 2000 EUR/mes (equivale a >= 24000 EUR/anio bruto). Si no hay salario publicado, marcar 'salario?' y puntuar menos.
+  # SALARIO: ya NO se descartan ofertas sin salario publicado. Sin salario = neutral (no penalizar); anotar 'salario no publicado'.
+  # Si hay salario publicado, debe ser >= 2000 EUR/mes (o equivalente >= 24000 EUR/anio bruto; convertir USD/GBP/otras monedas).
   min_salary_eur_month: 2000
   min_salary_eur_year_gross: 24000
-  # INGLES: se acepta ingles BASICO. Sirve en ofertas remotas y startups de IA.
+  salary_missing_policy: neutral   # no descartar ni penalizar
+  # INGLES: se acepta ingles BASICO.
   english_policy:
     accepted: [ninguno, basico, A1, A2, 'lectura de documentacion tecnica', 'ingles basico valorable']
-    penalize: ['ingles intermedio B1', 'conversacional']   # puntuar menos, no descartar de golpe
+    penalize: ['ingles intermedio B1', 'conversacional']
     reject: ['B2', 'C1', 'C2', 'fluido', 'bilingue', 'native', 'ingles avanzado', 'entrevista en ingles']
-  max_experience_required_years: 3   # 2 anios reales; aceptar hasta '2-3 anios'
+  max_experience_required_years: 3
   geography:
+    # YA NO solo Espana: se acepta remoto desde Espana para empresas de cualquier pais.
+    remote: mundo (empresas de Europa, UK, USA, LatAm, etc.) que contraten remoto o desde Espana/UE
     on_site_hybrid: [Gipuzkoa, Bizkaia, Alava, Navarra, Pais Vasco]
-    remote: Espana
+    prefer: [remoto desde Espana, husos horarios Europa/UTC-3 a UTC+3, contrato como empleado o freelance/contractor valido desde Espana]
+    check: indicar en el informe si la empresa contrata en Espana/UE o 'worldwide', y la moneda del salario
 discard_if:
   - exige grado/ingenieria/titulacion universitaria obligatoria
-  - exige 4+ anios de experiencia
+  - exige 4+ anios de experiencia o titulo Senior/Lead/Staff
   - exige ingles B2 o superior / fluido / avanzado
-  - salario publicado < 2000 EUR/mes
+  - salario PUBLICADO < 2000 EUR/mes (equivalente)
+  - restringe a residentes de un pais donde Mounir no puede trabajar (p.ej. 'US only', 'UK only')
   - es de LinkedIn (no usar LinkedIn como fuente)
   - empresa ya registrada en data/seen.csv
 source_priority:
   - 1: startups y empresas de IA/automatizacion (config/ai_startups.yml)
   - 1: paginas 'trabaja con nosotros' / careers de pymes, agencias web y software factories (config/portals.yml)
-  - 2: portales pequenos / ATS directos / comunidades
+  - 2: portales remotos internacionales y ATS directos (Remote OK, We Work Remotely, Remotive, Working Nomads, Wellfound, YC Work at a Startup, Ashby/Lever/Greenhouse/Workable)
   - 3: portales grandes (Tecnoempleo, InfoJobs, Indeed)
 scoring:
   threshold_apply: 4.0
   weights:
-    match_tecnologias: 0.30
+    match_tecnologias: 0.35
     sin_titulacion_requerida: 0.25
-    salario_>=2000: 0.20
+    salario_ok_o_no_publicado: 0.15
     ingles_compatible_basico: 0.15
     ubicacion_remoto_o_cerca: 0.10
