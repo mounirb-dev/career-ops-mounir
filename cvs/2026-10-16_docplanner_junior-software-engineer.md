@@ -1,35 +1,35 @@
 # Mounir Bella
 
-**Desarrollador Full Stack JavaScript · Node.js · React · IA aplicada**
+**Full Stack Software Engineer · Node.js · React · AI-first development**
 
-Bergara, Gipuzkoa, Pais Vasco (Espana) | mouunirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
+Bergara, Gipuzkoa, Spain (remote within Spain) | mouunirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
 
-## Perfil
+## Profile
 
-Desarrollador full stack con 2 anios de experiencia practica construyendo software de extremo a extremo con Node.js, React y Next.js, con mentalidad "builder" y enfoque AI-first: uso a diario Claude, OpenAI Codex, Cursor y Ollama en mi flujo de desarrollo. En Ceaformacion cree un CRM a medida con n8n en produccion que automatizo reservas y redujo horas de trabajo del equipo, y desplegue mi propia infraestructura auto-gestionada con Docker. Aprendo rapido, publico proyectos propios y trabajo con Git y despliegue continuo en Vercel/Dokploy.
+Full stack software engineer with 2 years of hands-on experience building real products across the stack with Node.js, React and Next.js. AI-first builder: I use Claude, OpenAI Codex, Cursor and Ollama every day to design, code and ship faster. Strong problem solver and fast learner with side projects in production, a custom CRM built with n8n that saved the team working hours, and my own self-managed infrastructure with Docker.
 
-## Habilidades
+## Skills
 
 - **Frontend:** React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, shadcn/ui, Zustand
-- **Backend:** Node.js, Bun, Supabase, InsForge, integraciones con Stripe y Dodo Payments
-- **IA (AI-first):** Claude, OpenAI Codex, Cursor, Ollama, Groq, Model Context Protocol (MCP), n8n
-- **Infraestructura:** Docker, Git, GitHub, AWS, Ubuntu Server, SSH, Oracle Cloud (VPS), Dokploy, Tailscale
-- **Seguridad:** Snyk (analisis de vulnerabilidades y dependencias)
+- **Backend:** Node.js, Bun, Supabase, InsForge, Stripe and Dodo Payments integrations
+- **AI-first engineering:** Claude, OpenAI Codex, Cursor, Ollama, Groq, Model Context Protocol (MCP), n8n automation
+- **Cloud & DevOps:** AWS, Docker, Git, GitHub, Ubuntu Server, SSH, Oracle Cloud, Dokploy, Vercel, Tailscale
+- **Security:** Snyk (dependency and vulnerability scanning)
 
-## Experiencia
+## Experience
 
-**Desarrollador full stack - Ceaformacion (Bergara) | ago 2026 - oct 2026**
-- CRM a medida con n8n que sustituyo al anterior, con seguimiento de leads de WhatsApp y reservas de franjas que generan ordenes automaticamente.
-- Reduccion de las horas del equipo dedicadas a estas tareas.
-- Servidores propios con equipos reutilizados y despliegue de InsForge, n8n y DocuSeal.
+**Full Stack Developer - Ceaformacion (Bergara) | Aug 2026 - Oct 2026**
+- Built a custom CRM with n8n that replaced the previous one, tracking leads from WhatsApp end to end.
+- Booking system: staff manage time slots and each booking automatically creates an order, which organized the process and reduced the team's working hours.
+- Set up self-managed servers on reused computers and deployed InsForge, n8n and DocuSeal.
 
-## Proyectos
+## Projects
 
-- **Portfolio interactivo (Next.js + Tailwind, Vercel):** fisica de animacion con canvas, drag & drop, transformaciones 3D en CSS y generacion dinamica de QR. portfolio-ten-tawny-98.vercel.app
-- **Excaliclaw:** pizarra digital colaborativa nativa para agentes de IA. excaliclaw.com
-- **Repositorios abiertos:** integraciones con APIs de IA, automatizaciones n8n y despliegues auto-gestionados. github.com/mounirb-dev
+- **Excaliclaw** (excaliclaw.com): collaborative digital whiteboard built for AI agents.
+- **Interactive portfolio** (Next.js, Tailwind CSS, Vercel): animation physics with canvas, drag and drop, 3D CSS transforms and dynamic QR codes. portfolio-ten-tawny-98.vercel.app
+- **Open source and side projects** (github.com/mounirb-dev): AI API integrations, n8n automations and self-hosted deployments (Dokploy, VPS).
 
-## Formacion
+## Education
 
-- Certificado de Profesionalidad: Desarrollo de Aplicaciones con Tecnologias Web - Lanbide
-- Certificado de Profesionalidad: Confeccion y Publicacion de Paginas Web - Lanbide
+- Professional Certificate: Web Application Development with Web Technologies - Lanbide (Basque Employment Service)
+- Professional Certificate: Web Page Design and Publishing - Lanbide (Basque Employment Service)
