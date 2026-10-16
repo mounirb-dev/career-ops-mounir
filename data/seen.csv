@@ -93,3 +93,12 @@ fecha,empresa,puesto,url,fuente,score,decision,cv_generado
 2026-10-16,mastra,AI Engineer,https://news.ycombinator.com/item?id=49995549,Hacker News,2.0,descartada (agentes en produccion),
 2026-10-16,cryptofiscal,Junior AI & Automation Operator,https://community.n8n.io/t/buscamos-un-automatizador-ia-junior/312900,Comunidad n8n,1.5,descartada (proceso cerrado; 500 USD/mes),
 2026-10-16,sercr (n8n),Especialista en Automatizacion e IA (n8n),https://community.n8n.io/t/especialista-en-automatizacion-e-ia-n8n/312357,Comunidad n8n,2.5,descartada (publicada 10-sep; 36 dias),
+2026-10-16,enerwise,Desarrollador Software e Inteligencia Artificial,https://www.tecnoempleo.com/desarrollador-software-e-inteligencia-artificial-e/python-javascript/rf-62341a7ae2a0a3230044,Tecnoempleo,4.1,fuerte (publicada 16-oct; sin salario; pide 3 anios; freelance; Bizkaia),cvs/2026-10-16_enerwise_desarrollador-software-ia.md
+2026-10-16,oferta ciega (tecnoempleo node developer),Node Developer,https://www.tecnoempleo.com/node-developer-appcast/react-react-native/rf-1c9d1442823f230b6d4e,Tecnoempleo,3.4,descartada (no verificada: texto reciclado era Covid; empresa oculta),
+2026-10-16,grupo sermicro,Full Stack Angular/NodeJS,https://www.tecnoempleo.com/full-stack-angular-nodejs-remoto/angular-nodejs-mongodb/rf-6690152202cb93bdd642,Tecnoempleo,2.0,descartada (Angular; middle-senior; ingles alto),
+2026-10-16,inetum,Software developer (Bizkaia),https://www.tecnoempleo.com/software-developer/genai-rag/rf-6a0d1548c237c32f7f40,Tecnoempleo,1.2,descartada (5+ anios; titulacion; ingles B2),
+2026-10-16,elevenlabs,Full-Stack Engineer (Creative Agents),https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945,Ashby,2.3,descartada (exige experiencia excepcional en produccion),
+2026-10-16,gismart,AI Automation Engineer (FitMe),https://jobs.ashbyhq.com/gismart/324aaf7b-554b-40a4-aee7-b02719751531,Ashby,1.5,descartada (ubicacion Kyiv),
+2026-10-16,zaelot,Front-end Software Engineer,https://www.getonbrd.com/jobs/software-engineer-zaelot-remote,Get on Board,1.5,descartada (Senior; ingles avanzado; Contentful),
+2026-10-16,interfell,Desarrollador Full-Stack (Angular Node.js),https://www.getonbrd.com/jobs/desarrollador-fullstack-angular-nodejs-interfell-remote,Get on Board,1.5,descartada (5+ anios; solo Peru/Colombia/Venezuela/Ecuador),
+2026-10-16,blupax pharmaceuticals,AI Automation Engineer Contract,https://www.getonbrd.com/jobs/ai-automation-engineer-contract-blupax-pharmaceuticals-remote,Get on Board,1.5,descartada (Senior; solo Sudamerica; ingles profesional),
