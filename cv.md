@@ -10,7 +10,7 @@ Desarrollador web con 2 anios de experiencia practica programando, especializado
 
 ## Experiencia
 
-### Desarrollador full stack - Ceaformacion (Bergara) | ago 2026 - oct 2026
+### Desarrollador full stack - Ceaformacion (Vitoria-Gasteiz) | ago 2026 - oct 2026
 - Cree un CRM a medida con n8n que sustituyo al CRM anterior del centro, para nutrir y dar seguimiento a los leads que llegaban desde WhatsApp.
 - Desde el CRM, el equipo gestionaba las franjas horarias en las que los alumnos acudian a hacer pruebas, y cada reserva generaba una orden de forma automatica, lo que ordeno el proceso.
 - Reduje las horas de trabajo dedicadas por el equipo del centro a estas tareas.

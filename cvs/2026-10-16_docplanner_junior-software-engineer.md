@@ -18,7 +18,7 @@ Full stack software engineer with 2 years of hands-on experience building real p
 
 ## Experience
 
-**Full Stack Developer - Ceaformacion (Bergara) | Aug 2026 - Oct 2026**
+**Full Stack Developer - Ceaformacion (Vitoria-Gasteiz) | Aug 2026 - Oct 2026**
 - Built a custom CRM with n8n that replaced the previous one, tracking leads from WhatsApp end to end.
 - Booking system: staff manage time slots and each booking automatically creates an order, which organized the process and reduced the team's working hours.
 - Set up self-managed servers on reused computers and deployed InsForge, n8n and DocuSeal.

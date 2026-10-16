@@ -18,7 +18,7 @@ Desarrollador full stack con 2 anios de experiencia en React, Next.js y Node.js,
 
 ## Experiencia
 
-**Desarrollador full stack - Ceaformacion (Bergara) | ago 2026 - oct 2026**
+**Desarrollador full stack - Ceaformacion (Vitoria-Gasteiz) | ago 2026 - oct 2026**
 - CRM a medida con n8n para nutrir y dar seguimiento a leads de WhatsApp; reservas que generan ordenes automaticamente.
 - Reduccion de horas de trabajo del equipo.
 - Servidores propios y despliegue de InsForge, n8n y DocuSeal.
