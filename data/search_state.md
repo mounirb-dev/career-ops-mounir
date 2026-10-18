@@ -42,3 +42,12 @@ Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 9.5
 Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 9.5
 - R15: Apify infojobs Euskadi/Navarra/Cantabria/Rioja/Burgos remoto-hibrido IA 15d (64 items): Aiblu Responsable IA Bilbao (Grado campo, rol responsable) 8.0; resto comercial/Java/.NET. Webs Aiblu/Maquina Motors/METRAI sin email de empleo publicado (Maquina Motors tiene formulario trabaja-en-maquina-motors).
 Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R16: Apify tecnoempleo IA/n8n/next/typescript exp<=3a 14d (2 items: Social You, Enerwise, vistas) + tecnoempleo provincias norte (filtro provincia ignorado; 40 items remoto Madrid: Seltime/Baoss/UST vistas, senior).
+- R17: Apify infojobs 'claude','cursor','vibe coding','whatsapp api','supabase','tailwind'... 15d (75 items): Laberit Consultor junior IA (Grado, no programador, ~6), Grupo Miguel Leon Full Stack Gran Canaria (NestJS/Python/Mongo, convenio 21-26k, ~6.5), Phoenix Contact PO Claude Code (ingles), T-Systems AI SWE (Valencia).
+Ronda 17/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R18: Script Teamtailor RSS + Personio XML (235 slugs ES/Euskadi): Q-Tech Frontend React BCN (3a+, English must) y Frontend/UI Madrid (5a+, ingles fluido); knowmad mood (vista); Lantek MES Italia. Nada.
+Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R19: Apify infojobs categoria informatica 100% remoto 7d sin keyword (86 items): nada nuevo (consultoras Java/SAP/.NET, Phoenix Contact, MELT).
+Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R20: Apify infojobs sin limite de fecha (orden publicacion) n8n/agentes/IA junior/full stack junior (120 items): **Cardeseo (Groove Factory Studios) Full Stack Next.js+Supabase+n8n+WordPress Mataro 30-36k: 8.5** (3a + liderazgo tecnico) -> EMAIL ENVIADO a info@cardeseo.com (publicado en cardeseo.com) con enlace al CV. BOYCOR IT Support (M365/ingles). APIFY: limite mensual de uso agotado tras esta ronda (web-fetch y actores bloqueados).
+Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5
