@@ -51,3 +51,12 @@ Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5
 Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5
 - R20: Apify infojobs sin limite de fecha (orden publicacion) n8n/agentes/IA junior/full stack junior (120 items): **Cardeseo (Groove Factory Studios) Full Stack Next.js+Supabase+n8n+WordPress Mataro 30-36k: 8.5** (3a + liderazgo tecnico) -> EMAIL ENVIADO a info@cardeseo.com (publicado en cardeseo.com) con enlace al CV. BOYCOR IT Support (M365/ingles). APIFY: limite mensual de uso agotado tras esta ronda (web-fetch y actores bloqueados).
 Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R21: WebSearch n8n sin titulacion / Bizkaia Talent / Welcome to the Jungle / agencias Donostia: iagora Junior Web Dev BCN (404), whynotremote n8n Expert Spain (404), Kibernum Chile (local), resto antiguo. Nada.
+Ronda 21/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R22: RSS/APIs directas WeWorkRemotely (full-stack, front-end), Berlin Startup Jobs, EU Remote Jobs, Remotive: Toptal (US/senior), Typeform/HR Plus (vistas). Nada.
+- R23: WebSearch Pamplona/Vitoria/Bilbao/Santander junior JS: IT Partner .NET+React Pamplona (.NET, 21-26k), Creative Data Frontend (master/PhD + ingles fluido), StartTech y CampusHR (getonbrd, cerradas 2021/2023). Nada.
+Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R24: Tecnoempleo HTML directo (curl) te=n8n / IA junior / nextjs / automatizacion: Social You Next.js y Arelance AI Frontend (empresas vistas), Pasiona Full Stack Backend (5a+, vista), GMV Junior (publicada 2025), Michael Page (vista). Nada.
+Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R25: scan.py Ashby/Lever/Greenhouse 119 slugs LATAM nearshore + devtools/no-code (Rootstrap, Arionkoder, Wizeline, Toku, Kavak, Fintual, Despegar, Resend, Zapier, n8n...): Arionkoder Full Stack LATAM (5a+, ingles avanzado), Wizeline React BCN (C#/.NET, GraphQL, ingles), Toku MX, Kavak hibrido CDMX. Nada.
+Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5
