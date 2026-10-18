@@ -14,3 +14,5 @@ Mejor oferta hasta ahora: AvaiBook (idealista) 7.4/10 y SimpsonScarborough 7.2/1
 - R2: n8n junior (Lumago cerrada), Bizkaia Talent (RDT ya visto), HN Who is hiring (no accesible), WorkAtAStartup (nada).
 - R3: Caja Rural de Aragon Fullstack Junior React/Node (pendiente verificar requisitos/titulacion; banco, probable grado), WinTech 2024 (viejo), Alongside (visto).
 Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 7.4
+- R4: APIs Jobicy/WorkingNomads/GetOnBrd (todo Senior o ya visto). R5: Remotive/Wellfound/devrel n8n/Infoempleo/WordPress/Lanbide: MindPal (Mid, B2+/C1), JobGo (India), Codevista (410 cerrada), Caja Rural Aragon (Zaragoza presencial/hibrido, no valida). Pendiente: Randstad Digital WordPress Junior Sevilla (verificar).
+Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 7.4
