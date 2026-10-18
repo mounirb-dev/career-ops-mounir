@@ -8,3 +8,9 @@ Mejor oferta hasta ahora: AvaiBook (idealista) 7.4/10 y SimpsonScarborough 7.2/1
 - Probar: Workable (apply.workable.com) Espana, Recruitee, Teamtailor, Personio, Get on Board (es), Bizkaia Talent, Wellfound, YC Work at a Startup, Jobicy, WeWorkRemotely, comunidades n8n.
 - Terminos: n8n, MCP, agentes IA, WordPress, integraciones, low-code, web developer.
 - Reevaluar 7+ sin CV: Softeta, BC Tecnologia, NUBO.
+
+## Sesion 2026-10-18 ~2030
+- R1: WebSearch Workable/Lever/Recruitee/Personio (site: no funciona en WebSearch), Apify valig/indeed (0 items), shahidirfan/Workable (solo US). Hallazgos: Elsa Science (CERRADA), Duelbits (410), catalitium (410), digitalhire (Dublin GA on-site), Codevista TS entry-level (wearedevelopers 403; fecha ambigua, pendiente verificar).
+- R2: n8n junior (Lumago cerrada), Bizkaia Talent (RDT ya visto), HN Who is hiring (no accesible), WorkAtAStartup (nada).
+- R3: Caja Rural de Aragon Fullstack Junior React/Node (pendiente verificar requisitos/titulacion; banco, probable grado), WinTech 2024 (viejo), Alongside (visto).
+Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 7.4
