@@ -1,0 +1,42 @@
+# PRIORIDAD DE LA RUTINA: encontrar formularios de candidatura PUBLICOS (sin cuenta, sin login) donde se pueda enviar CV (PDF) + mensaje.
+
+how_to_prioritize:
+  - Al sacar ofertas (Apify/WebSearch), resolver el enlace de 'Apply'/'Aplicar' y mirar el HOST final.
+  - Preferir ofertas cuyo apply este en un ATS con formulario publico (lista de abajo).
+  - Abrir el formulario (solo leer) y comprobar: pide cuenta/registro/login? pide CAPTCHA? pide verificar email antes de enviar? Si SI a cualquiera -> 'aplicar manualmente'.
+
+public_form_ats_hosts:
+  # Suelen tener formulario publico sin cuenta (comprobar siempre cada oferta)
+  - jobs.lever.co  (a veces hCaptcha: si aparece, manual)
+  - boards.greenhouse.io / job-boards.greenhouse.io  (a veces pide codigo de verificacion por email: manual)
+  - jobs.ashbyhq.com
+  - apply.workable.com / *.workable.com  (formulario publico; a veces reCAPTCHA)
+  - *.recruitee.com
+  - *.teamtailor.com
+  - *.personio.de / *.jobs.personio.com
+  - *.bamboohr.com/careers
+  - *.breezy.hr, *.homerun.co, *.pinpointhq.com, *.comeet.com, *.jazzhr.com, apply.jazz.co
+  - formularios 'Trabaja con nosotros' propios de pymes (web de la empresa) con subida de CV
+  - getonbrd.com: suele exigir cuenta -> comprobar
+
+usually_require_account_skip:
+  - LinkedIn (prohibido), InfoJobs, Indeed, Glassdoor, Tecnoempleo (aplicar suele pedir cuenta), Welcome to the Jungle, Jooble (redirige), Easy Apply de cualquier portal
+  - candidaturas solo por email (no se envian emails): dejar 'Kit de candidatura' con el email y el mensaje redactado
+
+search_queries_ats:
+  - site:jobs.lever.co (react OR node OR "full stack" OR typescript) remote Spain OR Europe
+  - site:boards.greenhouse.io (react OR node OR "full stack") remote Spain OR Europe
+  - site:jobs.ashbyhq.com (react OR node OR fullstack) remote Europe
+  - site:apply.workable.com (react OR node OR "full stack") Spain
+  - site:*.recruitee.com (react OR node OR "full stack") Spain
+  - site:*.teamtailor.com desarrollador (react OR node OR "full stack") Espana
+  - site:*.personio.de desarrollador (react OR node) Spain
+  - Apify: actores de Google Jobs / Indeed / Workable / Lever para sacar enlaces de apply y filtrar por host
+
+apply_flow_with_browserless:
+  1: carga browserless_skill {site:<host>}; abre el formulario; snapshot
+  2: rellena solo campos permitidos (nombre, email, telefono, ciudad, GitHub, portfolio, mensaje) con datos de cv.md
+  3: sube el PDF del CV (file-transfers: staging /upload + uploadFile con handle)
+  4: campos obligatorios que no esten en cv.md (salario, ingles, disponibilidad, permiso de trabajo) -> NO enviar, marcar 'aplicar manualmente'
+  5: snapshot de verificacion antes de enviar; enviar; guardar texto de confirmacion como evidencia
+  6: CAPTCHA, login, registro, verificacion por email o pago -> abandonar, 'aplicar manualmente'
