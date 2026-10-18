@@ -33,3 +33,12 @@ Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 - R9: Apify infojobs Salamanca/Valladolid/Burgos/Cantabria/Rioja/Zaragoza IA 15d: Ecotisa Programador IA (Python dominio, ~5).
 Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Energia Duero)
 Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Energia Duero); R10: infojobs nacional n8n/agentes/chatbot/automatizacion 15d (156 items): Humansyde 8.5, METRAI 8.5, Eulen/NEXO8/ABAI descartadas. CVs generados.
+- R11: Apify infojobs nacional 'desarrollador web junior' + 7 kw (158 items): Meridian Hub Junior Integraciones n8n/Python Palma (Ingles B2 imprescindible, ~6), AKKODIS (senior 4a B2), resto Java/.NET/Angular/vistas. Ipartek Bilbao 'con o sin experiencia' (pendiente requisitos).
+- R12: Apify SEPE/empleate (5 queries, 60 items) + infoempleo (2 items): Ikerlan/deeptech Gipuzkoa full stack (grado obligatorio, <30 anios), XR Salamanca (Unity/XR), Social You (vista, feb), resto senior/Java.
+Ronda 12/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R13: Apify infojobs 'desarrollador ia'+8 kw (156 items): LEMAUTO/Grupo Lemasa Full Stack Next.js/Node/PostgreSQL/WhatsApp/IA Leon (campo Grado) 8.5; Maquina Motors Desarrollador IA BCN (CFGS, 26-28k) 8.5; Ipartek Bilbao (CFGM, AngularJS) 7; Etalentum Penedes (residencia), EDICOM (grado+B2). Patron: el bloqueo casi siempre es el campo 'Estudios minimos' de InfoJobs.
+Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R14: Apify hirebase/remote-jobs (Spain, yoe<=3, 14d: 0 items x2), santamaria computrabajo MX/AR/CO remoto+n8n (16 items: Mexico presencial/licenciatura, salarios MXN 10-30k <2000 EUR). LATAM via Computrabajo no aporta.
+Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+- R15: Apify infojobs Euskadi/Navarra/Cantabria/Rioja/Burgos remoto-hibrido IA 15d (64 items): Aiblu Responsable IA Bilbao (Grado campo, rol responsable) 8.0; resto comercial/Java/.NET. Webs Aiblu/Maquina Motors/METRAI sin email de empleo publicado (Maquina Motors tiene formulario trabaja-en-maquina-motors).
+Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 9.5
