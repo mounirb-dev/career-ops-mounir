@@ -16,3 +16,5 @@ Mejor oferta hasta ahora: AvaiBook (idealista) 7.4/10 y SimpsonScarborough 7.2/1
 Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 7.4
 - R4: APIs Jobicy/WorkingNomads/GetOnBrd (todo Senior o ya visto). R5: Remotive/Wellfound/devrel n8n/Infoempleo/WordPress/Lanbide: MindPal (Mid, B2+/C1), JobGo (India), Codevista (410 cerrada), Caja Rural Aragon (Zaragoza presencial/hibrido, no valida). Pendiente: Randstad Digital WordPress Junior Sevilla (verificar).
 Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 7.4
+- R6-8: Apify tecnoempleo (web/wordpress/low-code: solo UST, Oscala, ClickHouse 6+a), Apify infojobs remoto 15d (46 items: casi todo Senior/Java/Angular/SAP); evaluadas Possible Inc. (6.5), Luca TIC (5.5), codafish (5). InfoJobs bloquea Browserless; usar descripcion via Apify (companyName + includeJobDescription).
+Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 7.4
