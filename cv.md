@@ -2,7 +2,7 @@
 
 **Desarrollador Full Stack JavaScript / TypeScript · Automatizacion e IA**
 
-Bergara, Gipuzkoa, Pais Vasco (Espana) | mouunirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
+Bergara, Gipuzkoa, Pais Vasco (Espana) | mounirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
 
 ## Perfil profesional
 
