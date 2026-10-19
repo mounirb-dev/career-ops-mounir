@@ -325,3 +325,17 @@ Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
 Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
 - R25: scan ATS (ats.py Ashby/Lever/Greenhouse) 77 slugs nuevos LATAM/ES (platzi, truora, habi, kushki, buk, fintoc, xepelin, conekta, stori, kueski, belvo, ontop, tiendanube, factorialhr, holded, payhawk, pleo, bounce, lingokids, ironhack...; 17 boards, 439 postings, >= 05/10): Bounce Product Engineer Growth Lisboa híbrido (TS/React sí; experimentos A/B NO CUMPLE, CI/CD/testing no constan, inglés implícito: 6.5), LaunchDarkly (US). Nada >= 7.
 Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
+- R26: WebSearch x4 multi-idioma (EN 'Spanish speaking' React remote Europe, FR développeur full stack junior télétravail, PT desenvolvedor júnior React Node Portugal, ES n8n Euskadi/Navarra/Cantabria/La Rioja): Jobgether Front-end React Spanish/English remoto (Murcia, 3a+ + inglés bueno, empresa oculta; ~6), Antal/Darwin (senior, C1), Brasil (local), Workana (2025). Nada.
+Ronda 26/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
+- R27: Remote Rocketship 12 roles nuevos (product/frontend/full-stack engineer, typescript/node developer, implementation/technical support/integration engineer, developer advocate, no-code, automation specialist, wordpress) x 8 países: Emi Labs Implementation Engineer AR (fecha real 2024-07-04 -> antigua), Arrow soporte de redes ES (no dev), TheWhiteam (vista), SaltRock/HarfangLab (DE/FR), resto UK/Ucrania/Brasil. Nada.
+Ronda 27/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
+- R28: Gmail respuestas (7 días; Carpas Zaragoza, BITIB, MigmaAI, Duotach, IA-Developer, Cardeseo): solo el acuse de recibo de Cardeseo (ya conocido). InfoJobs JSON últimas 24 h (Informática, Marketing, Otros, Administración, Ingenieros; 339 nuevas desde las 07:00): solo una beca de vigilancia tecnológica (Oesía). Nada.
+Ronda 28/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
+- R29: Tecnoempleo curl 14 términos (pág. 1, >= 18/10: 18 nuevas, ninguna relevante), Manfred API (28 activas, máx. id 8510 sin cambios), JobFluent 12 términos x 4 ciudades (<= 1 día: 0). Nada.
+Ronda 29/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
+- R30: scan ATS 87 slugs de startups IA/devtools/no-code UE (langfuse, lovable, windmill, trigger, activepieces, parloa, cognigy, voiceflow, botpress, rasa, liveblocks, convex, clerk, strapi, directus, payload, sanity, contentful, framer, webflow, twenty, appsmith, tooljet, nocodb, airtable, retool, pigment, attio, lemlist, brevo, mistral, huggingface, deepl, elevenlabs, synthesia, photoroom, dust, alan, swile, payfit, qonto, malt, agicap, aircall, pennylane...; 43 boards, 1.593 postings, >= 08/10): solo ElevenLabs (Full-Stack remoto, empresa vista, inglés/experimentados) y Alan (vista; Fullstack 'Anywhere in France, Belgium, Spain' ya evaluada). Nada nuevo.
+Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
+## Pendiente próxima ejecución
+- InfoJobs JSON por palabras clave en TODAS las categorías (no solo Informática) dio la mejor de esta ejecución (Carpas Zaragoza): repetir con 7-15 días.
+- Seguimiento: respuesta de administracion@carpaszaragoza.com (enviado 2026-10-19 10:04 UTC con CV adjunto).
+- Fuentes nuevas probadas: Breezy HR JSON (<slug>.breezy.hr/json), Hireline (pocas ofertas), Jobint/Bumeran (solo AR responde).
