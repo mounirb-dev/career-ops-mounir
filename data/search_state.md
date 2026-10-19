@@ -263,3 +263,12 @@ Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN
 Ronda 26/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
 - R27: Workable search API (vuelve a responder con pausas) 12 términos x ES/PT/MX/AR/CO/CL (508 ofertas): SupportYourApp (inglés fluido), Pearl (LATAM, C1), ALTEN MX (híbrido Puebla), Zyte QA, MediaRadar, Alongside/LanguageWire/Titan OS/Berry Virtual/Bolder/Pavago (vistas). Nada.
 Ronda 27/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R28: NUEVA FUENTE Lanbide buscador (web.lanbide.eus/apps/OF_RES_BUSQUEDA_OFERTAS?LG=C&ML=OFEMEN1&MS=Eaa&CTRG=3&RG=1&PM2=20&ORDN=12&RP=30; detalle OF_DETALLE_OFERTA_TRABAJO?IDRG=<id>): accesible por curl pero la paginación (RG) no avanza sin sesión y CTRG=3 devuelve empleo público (oposiciones Gobierno Vasco, Pasaia, etc.). Nada aplicable.
+Ronda 28/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R29: InfoJobs JSON provincias Gipuzkoa/Bizkaia/Álava/Navarra todas las categorías (2.006 ofertas) >= 2026-09-20: selk Gestor/a E-Commerce PrestaShop Galar (PrestaShop + Excel avanzado), Orona Líder IA Hernani (liderazgo/estrategia), C2B Consultor/a-Formador/a Bilbao (20-30k, formación), CIVIR (vista), Aiblu/Virto/Ipartek/BM (vistas), Aeternal Mentis (VB/Python). Nada.
+Ronda 29/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R30: InfoJobs JSON 14 términos de alto encaje (n8n, make.com, zapier, claude, agentes ia, chatbot, whatsapp, supabase, next.js, tailwind, vibe coding, automatizaciones, IA generativa, prompt) sinceDate=ANY >= 2026-09-20 (533; búsqueda semántica con mucho ruido): VEGALSA-EROSKI Especialista IA y Automatización A Coruña (Grado), Volpe Solutions Digital Business Facilitator (ingeniería + 4a + inglés medio), Lãberit (vista). Gmail: Cardeseo respondió acuse de recibo (2026-10-19 06:39); sin respuesta de BITIB, IA-Developer, MigmaAI, Duotach.
+Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+## Pendiente próxima ejecución
+- InfoJobs JSON vía curl es la fuente más rica (sin Apify): repetir categoría Informática completa y filtrar solo novedades (códigos ya vistos en esta ejecución: ver reports/2026-10-19_0723.md).
+- Aplicar manualmente (Mounir): Hays startup AI-native BCN (9.5), BITIB (email enviado, 9), Clubs de Fitness DiR (9), Bifront Connect Lisboa (8), duvo.ai (7.5), NEWRY (10/10 de la ejecución anterior, JOIN con reCAPTCHA).
