@@ -155,3 +155,13 @@ Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
 Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
 - R15: Teamtailor RSS 120 slugs nuevos (consultoras/hostings/industria vasca/SaaS ES): solo ERNI (React 5a+grado, AI infra ingles), Mercadona Tech SRE 5a, idealista no-dev. Nada.
 Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R16: Tecnoempleo sin filtro experiencia, 24 terminos, <4 dias + campos (Formacion/Idiomas/Salario): AI Engineer Azure axapartners (Azure+RAG prod), Grupo NS Knowledge Engineer grafos, T-Systems (grado), Serem (Moodle/ServiceNow/Snowflake), Cajamar (jefe proyecto). Ticjob/Betabeers/techbarcelona no accesibles. Nada.
+Ronda 16/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R17: Personio XML 120 slugs startups DACH/EU (n8n, langdock, parloa, deepl, shopware, storyblok, taxfix, holidu, tado, 1komma5grad...; 13 boards): solo Werkstudent/Founder's Associate Berlin (aleman). Nada.
+Ronda 17/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R18: scan ATS 110 slugs devtools/IA (lovable, langfuse, trigger.dev, inngest, convex, clerk, neon, tinybird, attio, synthesia, legora, cursor, replit, stackblitz, firecrawl, e2b...; 46 boards): sin puestos no-senior UE/LATAM salvo Elastic SE I (vista) y Trigger.dev Backend Security (UK/seguridad). Nada.
+Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R19: WebSearch agencias Donostia React/Next, software Pamplona/Logrono/Santander JS, startups Bilbao TS/Node/IA, A2R CREW (ya en seen 2026-10-15, no reevaluable por regla): solo resultados fuera de zona/antiguos (RDT senior 5a, CYC .NET). Nada.
+Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R20: RSS remotos: Berlin Startup Jobs (Skyflow Berlin), WWR full-stack/front-end (Toptal/Alloy 5a/Dremio), Jobspresso (Mozilla CA/FR/DE/UK, Affirm US), Jobicy feed dev (200: casi todo US/Canada; Maze Product Engineer Europa React+Python 6), Himalayas RSS; EU Remote Jobs/NoDesk/DynamiteJobs sin feed util. Nada >=7.
+Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
