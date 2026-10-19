@@ -272,3 +272,16 @@ Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN
 ## Pendiente próxima ejecución
 - InfoJobs JSON vía curl es la fuente más rica (sin Apify): repetir categoría Informática completa y filtrar solo novedades (códigos ya vistos en esta ejecución: ver reports/2026-10-19_0723.md).
 - Aplicar manualmente (Mounir): Hays startup AI-native BCN (9.5), BITIB (email enviado, 9), Clubs de Fitness DiR (9), Bifront Connect Lisboa (8), duvo.ai (7.5), NEWRY (10/10 de la ejecución anterior, JOIN con reCAPTCHA).
+
+## Sesión 2026-10-19 ~0940 UTC (nueva ejecución, contador reiniciado)
+- Apify no usado de inicio (límite mensual agotado en las ejecuciones anteriores); todo vía curl/APIs públicas.
+- R1: InfoJobs JSON Informática 7 días + Marketing/Otros/Diseño 7d + provincias Gipuzkoa (15d), Bizkaia, Navarra, Álava (≈4.600 ofertas, novedades >= 2026-10-17): InfoJobs Backend Developer BCN (3a+ Kotlin/Java), EVOLUTIO Frontend becas/prácticas Madrid (recién titulados, redes/seguridad; ~5), ALTEN Rust, C/C++, Spark. Nada.
+Ronda 1/30 - 10/10 encontradas: 0 - mejor nota: 5
+- R2: Tecnoempleo curl 28 términos x 2 páginas (653 ofertas, novedades >= 16/10): Deel Full Stack Engineer EMEA España remoto (4a+ TypeScript), Avature Web Implementation Consultant remoto (HTML/CSS/JS pero 'Proficient in English' + consultoría con clientes; ~6.5), Rawson (vista), T-Systems/Cajamar/Serem (vistas). Nada.
+Ronda 2/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R3: Apify (sigue 'Monthly usage hard limit exceeded'), Manfred API (28 activas, ninguna nueva > 8510), itjobs.pt 12 términos (178 ids, 33 con detalle >= id 517700): Unlocking Tech AI Engineer PT remoto (licenciatura obligatoria + residencia en Portugal; 1-3a Python), Premium Minds Software Engineer Lisboa (portugués obligatorio), Profidata React Zúrich/Porto Salvo, Adentis/Bee/Devoteam (portugués/vistas). Nada.
+Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R4: Workable search API 13 términos x 12 países UE/LATAM/Remote (>= 2026-10-12): Usercentrics Munich (5a+), GoodHabitz Marketing Web Developer Webflow (NL híbrido, Webflow obligatorio; ~6), European Dynamics (7a + máster), REACH Klaviyo, TuxCare kernel. Nada.
+Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R5: Get on Board API 18 términos (<21d): remotas = The Clearpoint AI, Blupax, Mediastream, Agilesoft (todas vistas), Mediastream Mobile/CTV (remote_local Colombia), resto híbrido Chile/MX/PE (fuera zona). Nada.
+Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6.5
