@@ -295,3 +295,13 @@ Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 - R10: APIs Remotive (software-dev 300), Jobicy (dev 100), Himalayas (100), Arbeitnow (3 págs) >= 2026-10-15 con filtro UE/LATAM/anywhere: Salland Engineering (NL), Ingestro Product Engineer (Berlín, alemán), Quantum-Systems, Intersnack (DE), AI trainers. Nada.
 Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R11: HN Who is hiring Oct 2026 (Algolia, comentarios < 6 días: 12; Treat Health, 3Gimbals US, GovStar US) + YC jobs data-page 10 páginas (94 ofertas: REVER vista, MixRank CO, Veryfi Medellín 3a, Ashby Design Engineer EU 3a+ antigua). Nada.
+Ronda 11/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R12: WebSearch x4 (n8n desarrollador España oct-2026, n8n automation remote Europe junior, 'trabaja con nosotros' React/Next Euskadi, LATAM contractor Next.js): comunidad n8n 'Automation Systems Builder Europe' (freelance 25-45 €/h, publicada 2025-12-13 -> >30 días), Antal Bilbao (expirada, 3a PHP), vacantesremotas.com (sin ofertas dev recientes), Hireline LATAM (3-5a, inglés). Nada.
+Ronda 12/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R13: WebSearch x4 ATS españoles (Factorial job_posting, JOIN, HiringRoom/Bizneo/Kenjo, agencias IA n8n/Make): solo agregadores (iagora, cazvid, WeAreDevelopers Joppy senior, Leadtech con certificado discapacidad), Workana freelance n8n (Cloudflare 403, publicaciones 2025). Nada verificable.
+Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R14: Indeed ES vía Browserless (links -> mosaic-provider-jobcards; 'react OR next.js OR node' y 'automatización IA OR n8n OR agentes IA', <3 días): Serviguide BPO Desarrollador/a Frontend Vue 3 / Node.js España (Vue 3 obligatorio no consta en cv.md; viewjob de Indeed da 400/captcha y la web serviguide.com no publica empleo -> NO VERIFICADA), PromoFarma (vista), Kyndryl/T-Mobile/AWS, Golden Estética (vista), resto senior/Java/no-dev. Nada verificable.
+Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R15: Jobint LATAM API (Bumeran AR OK; PE/CL/EC/PA/Zonajobs devuelven HTML de bloqueo) 11 términos remoto: solo B&B Consultores (vista, Argentina) y Trainthem (agosto). Hireline.io remoto LATAM 8 categorías: Poderjudicialvirtual Full-Stack Senior Vue+Laravel, resto > 2 semanas o senior. Nada.
+Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 6.5
