@@ -122,3 +122,16 @@ Ronda 28/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Ma
 Ronda 29/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
 - R30: WTTJ Algolia remoto fulltime ES/FR (Galadrim vista, Veriff/Netskope/Percona experimentados), WebSearch agencias n8n/IA con email (solo Workana freelance), empresas software Gipuzkoa (Vicomtech, CEIT, LKS Next Java/.Net, Zucchetti ERP, Teknei .NET), Bizkaia Talent PDFs (admin.bizkaiatalent.eus/pdf/job-offers/<id>, ultimo id 6482; son imagenes sin texto; ultimas 4: I+D AFESA, CIC nanoGUNE investigacion). Nada.
 Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+
+## Sesion 2026-10-19 ~0340 UTC (nueva ejecucion, contador reiniciado)
+- APIFY: 'Monthly usage hard limit exceeded' de nuevo (03:45 UTC). Toda la sesion via curl/APIs publicas.
+- R1: Workable search API (12 terminos x 8 paises UE, <21d): Titan OS AI Engineer/Intern BCN (grado), Station Munich (presencial), MediaRadar (fluency), resto senior/ingles nativo. Get on Board API (15 queries, remoto, <=semi-senior): solo ventas/WiTi (vista)/ComunidadFeliz (<2000). Remotive/Arbeitnow/Jobicy/Himalayas/RemoteOK: aleman/Suiza/UK. Nada.
+Ronda 1/30 - 10/10 encontradas: 0 - mejor nota: 5
+- R2: Tecnoempleo curl (15 terminos, exp<=3a, <10d; 77 ofertas): Noomeroo Product Engineer Security BCN (ingles alto + Ing. Tecnico, 5), React Developer recruiter (Londres, fuera zona), resto PLC/Java/Odoo/sistemas/vistas. Nada.
+Ronda 2/30 - 10/10 encontradas: 0 - mejor nota: 5
+- R3: SmartRecruiters search API (15 keywords EN/ES/PT/FR/DE, paises UE/LATAM, <14d; 23 cand.): Job Mobz Italia (presencial + US overlap, Scala/Go; 5.5), Septeo Montpellier (frances), resto .NET/Flutter/practicas/ALTEN/Sopra. Nada.
+Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 5.5
+- R4: Landing.jobs API (<14d: solo VW Data Scientist), HN Who is hiring Oct 2026 (filtro no-senior EU/LATAM: Treat Health, Baserow, Mastra, Better Stack, OpenSanctions ya vistas), WTTJ (clave Algolia ya no aparece en el HTML/chunks), n8n community categoria Jobs (13) via Discourse JSON (solo gigs/revenue share/for-hire), WebSearch n8n remoto ES / Teamtailor Euskadi / Next.js+Supabase EU: B2 Performance n8n Automation Specialist BCN (Indeed 26-sep, pendiente verificar). Nada >=7.
+Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: 5.5
+- R5: WebSearch B2 Performance n8n (no existe en resultados), Recruitee Full Stack Spain, vagas Portugal; Lever API jobgether (3551 postings, 18 dev EU/LATAM <30d): Frontend Developer React Espana (3a + 2a React + Redux; 6.5), Full Stack Engineer IA (Python/K8s), FDE (5a), Svelte (B2), RoR. Nada >=7. TRUCO: api.lever.co/v0/postings/jobgether?mode=json lista miles de ofertas remotas por pais (Spain/Portugal/Mexico...).
+Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6.5
