@@ -285,3 +285,13 @@ Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 - R5: Get on Board API 18 términos (<21d): remotas = The Clearpoint AI, Blupax, Mediastream, Agilesoft (todas vistas), Mediastream Mobile/CTV (remote_local Colombia), resto híbrido Chile/MX/PE (fuera zona). Nada.
 Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R6: Remote Rocketship (estructura OK con -L y barra final) 10 roles x spain/portugal/europe/latin-america/mexico/argentina/colombia (>= 2026-10-16, entry/junior/mid): IDS Comercial Desarrollador FrontEnd Web México remoto (30.000 MXN/mes ≈ 1.450 EUR < 2.000, nómina local CDMX, licenciatura valorada) -> descartada; SNOCKS Junior AI Engineer (Alemania, alemán), G-P AI Engineer (Irlanda/UK, inglés), Software Mind (Polonia), TheWhiteam (vista), Ryz Labs (inglés, Argentina), Brasil (portugués). Nada.
+Ronda 6/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R7: JobFluent 14 términos x 4 ciudades (<=6 días): Celonis AI Product Engineer Demo (vista, inglés), WOMO (vista), 24i DataOps. Domestika Atom (>= 15/10: diseño/prácticas/vídeo, Introvisual vista). talent.com ES 12 términos x 5 ubicaciones (parser nuevo: data-new-id + dateTime): RocaSalvatella AI Developer Sant Cugat (3a Python + RAG + inglés alto; empresa vista), CFSomorrostro Abadiño Técnico Marketing/Web (certificado de discapacidad >= 33% obligatorio + SEO), Camlin/Iplan (vistas), Innovamat (julio). Nada.
+Ronda 7/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R8: SmartRecruiters search API 18 términos EN/ES/PT/FR x 3 páginas, países UE/LATAM (>= 2026-10-14): ABOUT YOU 'Product Developer LAYBELS' (moda, no software), Wüest Partner Test Automation Lisboa, ALTEN FR/DE, Storware (polaco), Bosch/PROSOL prácticas. Nada.
+Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R9: Lever jobgether (4.063 postings, <6 días, UE/LATAM): Full Stack Software Engineer (Go/Java + OAuth), Fullstack Engineer Investigator Tools (Go + grafos, ownership end-to-end), Full Stack Engineer agentes/RAG en producción, Full-Stack Backend Leaning Payments, RoR, React Native, AI trainers. Empresas ocultas + inglés. Nada.
+Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R10: APIs Remotive (software-dev 300), Jobicy (dev 100), Himalayas (100), Arbeitnow (3 págs) >= 2026-10-15 con filtro UE/LATAM/anywhere: Salland Engineering (NL), Ingestro Product Engineer (Berlín, alemán), Quantum-Systems, Intersnack (DE), AI trainers. Nada.
+Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 6.5
