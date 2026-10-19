@@ -112,3 +112,13 @@ Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Ma
 Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
 - R25: reevaluacion bajo regla UE: Softeta Junior Full-stack (ya no publicada -> cerrada), BC Tecnologia/NUBO (sin cambios, <7), AvaiBook/SimpsonScarborough (ya tienen CV). Workable search Lituania: Teltonika Junior/Mid Node.js Vilnius presencial 6.5 (ingles bueno exigido).
 Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R26: Workable search API en 17 paises UE (PL, AT, GR, CY, MT, CZ, RO, EE, LV, LT, SE, DK, FI, LU, HR, BG, SI) x 8 terminos junior: Telemedi Junior Agentic (vista; polaco fluido), DIGIMARK/EY/Accenture Grecia (griego/grado/SoftOne), Teltonika (electronica). Nada.
+Ronda 26/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R27: Workable search API LATAM (Latin America, LATAM, UY, PE, CR, EC, GT, DO, PA, PY, BO, BR) x 8 terminos: Stack Builders contractor (vista; 6+a Java/Node, ingles fuerte), First Help Financial Sao Paulo, Doris Peters CR hibrido; resto EE.UU. Nada.
+Ronda 27/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R28: WebSearch contratistas LATAM desde Espana, Lanbide/Bizkaia Talent Gipuzkoa, agencias marketing Euskadi WordPress, Navarra/Cantabria/La Rioja React/n8n: solo guias, .NET+React Pamplona (visto), ofertas caducadas. Nada.
+Ronda 28/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R29: Greenhouse EU (boards-api.eu: vacio) + Lever/Greenhouse/Ashby 61 scaleups EU (GetYourGuide, Personio, Celonis, Trade Republic, Zalando, Vinted, Wise, Monzo, Bolt...): Celonis Orbit (graduados+idiomas), Monzo SE III BCN, Cabify (vista). Nada.
+Ronda 29/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R30: WTTJ Algolia remoto fulltime ES/FR (Galadrim vista, Veriff/Netskope/Percona experimentados), WebSearch agencias n8n/IA con email (solo Workana freelance), empresas software Gipuzkoa (Vicomtech, CEIT, LKS Next Java/.Net, Zucchetti ERP, Teknei .NET), Bizkaia Talent PDFs (admin.bizkaiatalent.eus/pdf/job-offers/<id>, ultimo id 6482; son imagenes sin texto; ultimas 4: I+D AFESA, CIC nanoGUNE investigacion). Nada.
+Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
