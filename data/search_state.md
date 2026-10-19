@@ -229,3 +229,5 @@ Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (BITIB, DiR)
 Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (BITIB, DiR)
 - R10: WebSearch x5 (n8n sin titulación ES, agencias n8n 'trabaja con nosotros', LATAM-or-Spain Next.js, AI automation specialist EU español, agentes IA Gipuzkoa): solo agregadores/Upwork/Workana, Indeed InfoJobs ya vistos (Desarrollador IA/Agentes LLM Madrid 3a), justjoin.it autoMEE (expirada 2025) y fireup.pro (Polonia B2B). Nada.
 Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (BITIB, DiR)
+- R11: Tecnoempleo curl 14 términos (te.py, listados con fecha): **Hays - React / Node Fullstack Developer para startup AI-native (Barcelona Glòries, híbrido 2-3 días remoto, 40-65k; React/Next/Node/PostgreSQL + uso intensivo de Claude y workflows; 'abierta a perfiles con menos experiencia'; sin formación ni idioma mínimos; publicada 2026-10-15): 9.5** -> CV generado, aplicar manualmente (redirige a hays.es). Hays Valencia FullStack JS (ingeniería, streaming), ABCDx MedTech (3a RN, QMS), Seidor (SAP + inglés avanzado), Inetum (5a+).
+Ronda 11/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
