@@ -60,3 +60,15 @@ Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5
 Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5
 - R25: scan.py Ashby/Lever/Greenhouse 119 slugs LATAM nearshore + devtools/no-code (Rootstrap, Arionkoder, Wizeline, Toku, Kavak, Fintual, Despegar, Resend, Zapier, n8n...): Arionkoder Full Stack LATAM (5a+, ingles avanzado), Wizeline React BCN (C#/.NET, GraphQL, ingles), Toku MX, Kavak hibrido CDMX. Nada.
 Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5
+
+## Sesion 2026-10-19 (nueva ejecucion, contador reiniciado)
+- R1: Get on Board API (16 queries, 304 ofertas <30d): remotas semi-senior todas vistas (WiTi, Lead Gen, BC Tecnologia) o no-dev; WebSearch Workable/Recruitee/Teamtailor/n8n ES/AI automation EU: Capitole (cerrada, vista), Social You (vista), Teamtailor solo Senior; comunidad n8n jobs (gigs freelance/revenue share, no empleo).
+Ronda 1/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R2: Workable job search API (jobs.workable.com/api/v1/jobs, 12 terminos x 12 paises UE/LATAM, <30d): Berry Virtual AI Automation (residencia Mexico/Colombia -> fuera zona), Haiilo Junior Fullstack Hamburgo (Angular/Java), Pearl (C1, 3-7a), Workana Ssr (3a), Bolder Apps (senior). TRUCO: la API de busqueda de Workable funciona sin Apify.
+Ronda 2/30 - 10/10 encontradas: 0 - mejor nota: 5.5
+- R3: Workable API 2a pasada (junior/desarrollador/wordpress/automatizacion/IA/integraciones/low-code/desenvolvedor/developpeur x 15 ubicaciones ES/PT/FR/LATAM): solo ruido (Mindrift AI trainer, TuxCare kernel, Pearl, bookkeepers). Nada.
+Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 5.5
+- R4: Torre API y EURES API (no accesibles sin endpoint valido); Remote Rocketship ES (junior-software-engineer, frontend-developer): Newxel/Kalepa/The Whiteam/Docplanner ya vistos; Restate Frontend (nivel experimentado). Nada.
+Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: 5.5
+- R5: WebSearch n8n Euskadi/Navarra, Personio DE fullstack junior, fullstack junior LATAM contractor, agencias IA n8n 'trabaja con nosotros', developpeur full stack FR: Neowyze (enero, <2000 EUR), Personio solo Senior/Alemania. Candidatas a candidatura espontanea: IA-Developer (Caldes d'Estrac, BCN; n8n, WhatsApp chatbots, CRM; info@ia-developer.com publicado). nacaIA sin email publicado.
+Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6
