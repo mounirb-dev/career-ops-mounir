@@ -225,3 +225,7 @@ Ronda 7/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (BITIB, DiR)
 - R8: InfoJobs JSON categorías Marketing (110), Diseño (50), Calidad/I+D (30), Otros (180) completas (≈3.360 ofertas), filtro dev/IA/automatización >= 2026-09-20: CapCapital CRM & Marketing Automation Madrid (estudios mínimos Grado -> descartada, 6), MineTechnology IA robótica Zalla (RL/ROS, post-Grado), TWIN Inversors (marketing + Adobe, sustitución), EMEDE WooCommerce (25-27k, PHP), ABAI (vista). Nada >=7 nuevo.
 Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (BITIB, DiR)
 - Envío: EMAIL a info@bitib.es (BITIB Consultor/a de IA) con CV PDF adjunto verificado. CVs generados: BITIB, Clubs de Fitness DiR, Bifront Connect.
+- R9: InfoJobs JSON Informática con estudios ≤ Bachillerato/otros (249 ofertas, sinceDate=ANY >= 2026-09-19): solo soporte/FTTH/hardware, Groove Factory (Cardeseo, ya enviado), Aeternal Mentis VB/Python Bilbao, Alvea Angular, Capgemini GenAI (Python). Nada nuevo.
+Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (BITIB, DiR)
+- R10: WebSearch x5 (n8n sin titulación ES, agencias n8n 'trabaja con nosotros', LATAM-or-Spain Next.js, AI automation specialist EU español, agentes IA Gipuzkoa): solo agregadores/Upwork/Workana, Indeed InfoJobs ya vistos (Desarrollador IA/Agentes LLM Madrid 3a), justjoin.it autoMEE (expirada 2025) y fireup.pro (Polonia B2B). Nada.
+Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (BITIB, DiR)
