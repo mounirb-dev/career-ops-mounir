@@ -243,3 +243,7 @@ Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN
 Ronda 16/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
 - R17: Workable API rate-limited. Remote Rocketship (/country/<pais>/jobs/<rol>/; 20 roles x spain/portugal/europe/latin-america/mexico/argentina): **duvo.ai Product Engineer (EU remoto, TS/Next/React/Tailwind/PostgreSQL/Anthropic, AI-native; 110-160k; publicada 2026-10-18): 7.5** (inglés implícito, experiencia en producción PARCIAL) -> CV en inglés, kit. Uvation (residencia países bálticos), Centric (Portugal), Zartis (LATAM híbrido), Tether/Visor.ai/Truelogic (vistas), Mindrift (AI trainer CFD).
 Ronda 17/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R18: APIs Remotive (software-dev 300), Himalayas (200), Jobicy (dev 100), Arbeitnow (3 págs) filtro UE/LATAM/anywhere + no senior: Brafton (5a+, residencia MX/BR), Laminar/Shape (Polonia/Portugal), Supabase Auth y Sticker Mule (inglés escrito, 150-250k, nivel excepcional). Nada.
+Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R19: Lever jobgether (3.753 postings, <10d, Spain/Portugal/LATAM remoto, no senior): Full Stack Engineer agentes/RAG, Frontend React (Redux), FDE Agile, Full Stack (Golang/Java, 3a), AI Enablement Specialist (Claude/Sana/Notion; inglés), AI Trainers (idiomas). Empresas ocultas y requisitos en inglés; nada verificable >=7.
+Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
