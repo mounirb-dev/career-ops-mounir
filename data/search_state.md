@@ -249,3 +249,7 @@ Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN
 Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
 - R20: scan ATS (ats.py: Ashby/Lever/Greenhouse) 85 slugs nuevos de startups ES/LATAM (maisa, kittl, clarity-ai, genially, seedtag, wallbox, freepik, holded, playtomic, bitpanda, jobandtalent, clara, yuno, addi, fintual, toku...; 14 boards, 426 postings): Clara (todo híbrido local MX/CO/AR -> fuera zona), Bitpanda (prácticas QA), Jobandtalent (helpdesk), Yuno/Fintual/Toku (LATAM local). Nada.
 Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R21: Domestika Atom (40 entradas): Future Island Tech AI & Digital Intelligence Specialist Junior/Mid Madrid (n8n/Make/LLMs/APIs; salario 22.000 < 24.000 -> 6.5), Introvisual Oviedo (SEO/Ads), resto diseño/vídeo/prácticas. Nada >=7.
+Ronda 21/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R22: Manfred API (28 activas, ninguna nueva > id 8510) + YC jobs data-page (role/software-engineer/spain, location/spain, location/europe, role/software-engineer/remote): todo EE.UU./UK/LATAM local, REVER y Manufact (vistas). Nada.
+Ronda 22/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
