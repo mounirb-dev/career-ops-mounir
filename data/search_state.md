@@ -92,3 +92,13 @@ Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Ma
 Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
 - R15: Welcome to the Jungle via API Algolia (CSEKHVMS53, indice wttj_jobs_production_es, filtro offices ES/PT, <30d, 17 terminos): Galadrim (visto, master), LanguageWire (visto), Spendesk (ingles, experimentado), NTT DATA (Cobol/GIS/AWS), Aily Labs (3a ML). Nada. TRUCO: WTTJ Algolia funciona con curl.
 Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R16: Bumeran API (AR/PE; MX bloqueado) remoto x 8 terminos: Aliantec Angular, B&B Consultores (Argentina local), GVG Angular. Nada (y en general exigen residencia AR).
+Ronda 16/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R17: Infoempleo curl (12 terminos) + Ticjob (render JS, sin datos): Grupo CRIT Lleida (julio, licenciatura), Maquetador Tailwind Malaga tambien en Infoempleo (misma oferta MP), resto PLC/automatizacion industrial/comercial. Nada nuevo.
+Ronda 17/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R18: hays.es / adecco.es / manpower.es / Lanbide / empleate via curl: todo renderizado por JS o 404, sin datos de ofertas. (Fuentes no aprovechables sin navegador.)
+Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R19: Recruitee API + Workable widget API para 90 slugs de empresas ES/Euskadi (Bilbomatica, Ayesa, Irontec, Ikusi, Hiberus, Biko, Openbravo, Tracasa, Flat101, Runroom, Mimacom...): ningun board en Recruitee; Workable widget bloqueado por Cloudflare (1015). Nada.
+Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R20: SmartRecruiters search API publica (jobs.smartrecruiters.com/sr-jobs/search, 13 keywords, filtro paises UE/LATAM <30d): Devoteam Frontend Vue (vista; 3a Vue), Devoteam Nearshore Full-Stack Lisboa (5+a, ingles), Inetum (vista), NielsenIQ MX remoto (local), Sopra/ALTEN/Talan FR (frances/presencial). Nada. TRUCO: SmartRecruiters search funciona con curl.
+Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
