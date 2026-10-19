@@ -2,7 +2,7 @@
 
 **Full Stack JavaScript Developer · AI-assisted engineering · Next.js · React · Node.js**
 
-Bergara, Gipuzkoa, Spain (remote) | mouunirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
+Bergara, Gipuzkoa, Spain (remote) | mounirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
 
 ## Profile
 

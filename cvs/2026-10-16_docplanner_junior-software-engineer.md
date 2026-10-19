@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer · Node.js · React · AI-first development**
 
-Bergara, Gipuzkoa, Spain (remote within Spain) | mouunirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
+Bergara, Gipuzkoa, Spain (remote within Spain) | mounirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
 
 ## Profile
 

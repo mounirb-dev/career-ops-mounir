@@ -2,7 +2,7 @@
 
 **Junior Product Engineer · Next.js · React · Tailwind · Supabase**
 
-Bergara, Gipuzkoa, Spain (remote) | mouunirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
+Bergara, Gipuzkoa, Spain (remote) | mounirbella32@gmail.com | +34 631 10 69 94 | github.com/mounirb-dev | portfolio-ten-tawny-98.vercel.app
 
 ## Profile
 

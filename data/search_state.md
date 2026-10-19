@@ -372,3 +372,11 @@ Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 - R15: itjobs.pt 12 términos (ids > 517900, 48 nuevas): team.it Junior Fullstack TS/React Lisboa (inglés B2 mínimo -> descartada), Bee Engineering Node (3a+), Feel Group Especialista IA Porto (licenciatura + Python/ML), Unlocking Tech (vista), Devoteam Angular, Profidata (vista). Nada.
 Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R16: HN Who is hiring Oct 2026 (Algolia, comentarios >= 16/10: solo Treat Health, vista) + YC jobs data-page 7 páginas (spain/europe/remote/mexico/portugal/LATAM): Manufact Developer Advocate & Partnerships (mcp-use/MCP, 'Any (new grads ok)', pero exige residir o mudarse a San Francisco -> fuera zona), Veryfi Medellín (vista), MixRank CO (vista), resto EE.UU./6+a. Nada.
+Ronda 16/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R17: Indeed ES vía Browserless (react/next.js/typescript/n8n/agentes IA, último día): AUTO1 Junior Technical PM Strategy & Operations Madrid (2-4a + grado técnico + inglés fluido), Rindus, Handpoint Android, Babel SAP, Airbus, 404 Programación y Visia (vistas). Nada.
+Ronda 17/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R18: Indeed MX vía Browserless (react/node/n8n/typescript remoto LATAM, 3 días: solo OneSec SharePoint CDMX) + Indeed ES teletrabajo 3 días (muro de inicio de sesión 'Sign In | Indeed Accounts' -> no se insiste). Nada.
+Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R19: WebSearch x3 agencias web/IA en Donostia/Euskadi/Debagoiena: **CodeSyntax (Eibar, 24 personas, cooperativa; Python/Plone/Django + React (iCert para Irizar) + WordPress; info@codesyntax.com publicado en su web)** -> EMAIL ESPONTÁNEO ENVIADO con CV adjunto (verificado). HG Developers (Ermua) sin web de empleo. Además: corregidas las tildes de 17 CVs antiguos y el email erróneo 'mouunirbella' en 7 CVs; PDFs regenerados.
+Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 7.0 (CodeSyntax espontánea)
