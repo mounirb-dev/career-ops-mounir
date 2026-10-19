@@ -72,3 +72,13 @@ Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 5.5
 Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: 5.5
 - R5: WebSearch n8n Euskadi/Navarra, Personio DE fullstack junior, fullstack junior LATAM contractor, agencias IA n8n 'trabaja con nosotros', developpeur full stack FR: Neowyze (enero, <2000 EUR), Personio solo Senior/Alemania. Candidatas a candidatura espontanea: IA-Developer (Caldes d'Estrac, BCN; n8n, WhatsApp chatbots, CRM; info@ia-developer.com publicado). nacaIA sin email publicado.
 Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6
+- R6: HN Who is hiring Octubre 2026 via API Algolia (266 comentarios, filtro JS + EU/LATAM): Tether, Mastra, Better Stack ya vistas; Cleverbase (NL onsite), Treat Health (Elixir Helsinki), Baserow (aleman). Nada.
+Ronda 6/30 - 10/10 encontradas: 0 - mejor nota: 6
+- R7: scan.py Lever/Greenhouse/Ashby 134 slugs nuevos ES/FR/LATAM (38 boards): Fever (Senior FDE 6a; Graduate con grado), Alan (vista), Kavak Jr CDMX hibrido (fuera zona), Backmarket 'Experienced'. Nada.
+Ronda 7/30 - 10/10 encontradas: 0 - mejor nota: 6
+- R8: scan.py 108 slugs devtools/no-code/IA (n8n, Supabase, Resend, ElevenLabs, OpenAI, LangChain, Twilio, Storyblok...): todo Senior/US/ingles fluido; n8n Internal Context Engineer (knowledge mgmt, no dev). Nada.
+Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 6
+- R9: Tecnoempleo curl (te.py: 14 terminos, 244 ofertas de octubre): **Michael Page cliente retail Malaga - Maquetador Frontend Tailwind (HTML/CMS/Tailwind, 2a, sin titulacion ni ingles, hibrido Malaga 2d o full remote segun perfil, publicada 2026-10-01): 9.5/10** (falta: modalidad/ubicacion Malaga; experiencia profesional formal corta; e-commerce valorable). Formulario MP con contrasena+captcha -> aplicar manualmente. CV generado. Node Developer appcast (ciega, no verificable), Vancast (licenciado+ingles alto), resto vistas o 3-5a.
+Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R10: Tecnoempleo 2a pasada (maquetador, html css, tailwind, programador/desarrollador junior, web developer, integraciones, chatbot, ia generativa, make zapier, gipuzkoa, bizkaia, navarra, vue, shopify, prompt): Responsable IA MP Bizkaia (grado+3a DL), AI Software Engineer BCN (agentic senior), resto C++/Java/RPA/sistemas/managers. Nada nuevo >=7.
+Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
