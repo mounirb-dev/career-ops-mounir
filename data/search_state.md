@@ -253,3 +253,9 @@ Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN
 Ronda 21/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
 - R22: Manfred API (28 activas, ninguna nueva > id 8510) + YC jobs data-page (role/software-engineer/spain, location/spain, location/europe, role/software-engineer/remote): todo EE.UU./UK/LATAM local, REVER y Manufact (vistas). Nada.
 Ronda 22/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R23: InfoJobs JSON últimas 24 h todas las categorías (608 ofertas): eXperience Technical Leader IA (lead), Vipirsa COBOL/C++, ISPROX PLC, BJS Dialer (vista hoy). Nada nuevo (lunes temprano, poco volumen).
+Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R24: talent.com MX/CO/AR (6 términos x 'remoto': n8n, automatización ia, next.js, agentes ia, full stack, typescript): Liverpool React Jr (licenciatura, CDMX), CEMEX/BHR/Vasconia (licenciatura/ingeniería), HKR.TEAM Automation & Integrations (C1), WHO&Co Product Engineer AI First (ingeniería + B2), G-Fitness (ingeniería). Todo local o con titulación. Nada.
+Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R25: WebSearch x3 ('Spanish speaking' developer remote Europe, 'remoto desde España' React Node startup, agencias Next.js Euskadi/Navarra 'trabaja con nosotros'): jobgether Fullstack Node/React (ya no publicada), WeAreDevelopers Full Stack BCN (React Native/GraphQL/AWS), Antal (5a), whynotremote (404), Ipartek (vista). Nada.
+Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
