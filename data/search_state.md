@@ -259,3 +259,7 @@ Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN
 Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
 - R25: WebSearch x3 ('Spanish speaking' developer remote Europe, 'remoto desde España' React Node startup, agencias Next.js Euskadi/Navarra 'trabaja con nosotros'): jobgether Fullstack Node/React (ya no publicada), WeAreDevelopers Full Stack BCN (React Native/GraphQL/AWS), Antal (5a), whynotremote (404), Ipartek (vista). Nada.
 Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R26: InfoJobs Informática 'Solo teletrabajo' >= 2026-09-20 sin filtro de estudios (≈75 títulos): codafish Node/TS Serverless, Luca TIC React, Possible Inc React, Azertium Full Stack, SII Node+Delphi, Cassava (todas empresas ya vistas), MELT React (inglés), BOYCOR AEM (22-26k), resto sistemas/IAM/consultoría. Nada nuevo.
+Ronda 26/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R27: Workable search API (vuelve a responder con pausas) 12 términos x ES/PT/MX/AR/CO/CL (508 ofertas): SupportYourApp (inglés fluido), Pearl (LATAM, C1), ALTEN MX (híbrido Puebla), Zyte QA, MediaRadar, Alongside/LanguageWire/Titan OS/Berry Virtual/Bolder/Pavago (vistas). Nada.
+Ronda 27/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
