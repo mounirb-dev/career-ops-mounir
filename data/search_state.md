@@ -165,3 +165,13 @@ Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
 Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
 - R20: RSS remotos: Berlin Startup Jobs (Skyflow Berlin), WWR full-stack/front-end (Toptal/Alloy 5a/Dremio), Jobspresso (Mozilla CA/FR/DE/UK, Affirm US), Jobicy feed dev (200: casi todo US/Canada; Maze Product Engineer Europa React+Python 6), Himalayas RSS; EU Remote Jobs/NoDesk/DynamiteJobs sin feed util. Nada >=7.
 Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R21: NUEVA FUENTE YC jobs (ycombinator.com/jobs/... data-page JSON: role/software-engineer/remote, location/spain, role/software-engineer/barcelona, location/europe): casi todo EE.UU.; REVER FDE Barcelona (grado exigido, cuenta YC; 5), MixRank Junior Colombia (3 meses, residencia CO). Nada.
+Ronda 21/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R22: YC jobs 26 paginas (madrid, barcelona, portugal, mexico, argentina, colombia, brazil, chile, germany, berlin, france, paris, netherlands, ireland, remote, full-stack, frontend...; 274 ofertas unicas, filtro exp Any/1+ y zona UE/LATAM): Manufact DevRel MCP (reubicarse SF), Windmill (remoto solo FR/CH), Helios MX (5 meses), resto ventas/practicas/antiguas. Nada.
+Ronda 22/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R23: Remote Rocketship (__NEXT_DATA__ initialJobOpenings) 18 roles x spain/europe/portugal/latin-america (<21d, no senior): Valtech Freelance Contentful PT (6), Logicalis Junior Automation (empresa ya vista), GoFasti (vista), Affirm/Talan/Capgemini/G-P/Visor.ai (ingles/grado/Python), resto Brasil (portugues). Nada >=7.
+Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R24: Remote Rocketship 18 roles nuevos (wordpress, no-code, automation-specialist, devrel, implementation, FDE, support, shopify, webflow, ai-automation, prompt...) x 8 paises ES/EU/LATAM: Truelogic Implementation Engineer LatAm (2-5a, evals, ingles; 6.5), Emi Labs (2024), soporte tecnico IE/PL/UK, Brasil portugues. WebSearch 'desde Espana o LATAM' full stack: Interfell/BC Tecnologia (vistas), Rimutee (5a). Gmail: sin respuestas de cardeseo/ia-developer/migma (7d). Nada >=7.
+Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R25: boards startups ES (startupxplore login, startupjobs 403, trabajoenstartups feed vacio, startupvalencia/iamtalent/barcelonaactiva no accesibles) + Workable search 8 terminos genericos x 10 ciudades ES/PT (<10d): MORO MES (Siemens), Oxford Quantum Circuits (cuantica). Nada.
+Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
