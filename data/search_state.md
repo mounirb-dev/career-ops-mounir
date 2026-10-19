@@ -406,3 +406,16 @@ Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 7.0 (CodeSyntax espontánea)
 - Aplicar manualmente (Mounir): Irontec (formulario con reCAPTCHA, perfil web front/back), además de los pendientes anteriores: Hays startup AI-native BCN (9.5), Clubs de Fitness DiR (9), Bifront Connect Lisboa (8), duvo.ai (7.5), haddock (8.5), Entrena Virtual (8).
 - Seguimiento: respuestas de info@codesyntax.com (enviado 2026-10-19 13:00 UTC con CV adjunto) y administracion@carpaszaragoza.com.
 - Fuentes nuevas de esta ejecución: Free-Work (FR), net-empregos (PT), Ticjob RSS, vacantesdigitales.com (LATAM), Jobspresso RSS, Teamtailor /jobs.rss de cada empresa. InfoJobs JSON necesita User-Agent de navegador completo + Referer.
+
+## Sesión 2026-10-19 ~1540 UTC (nueva ejecución, contador reiniciado)
+- Ventana de envío: lunes 17 h Madrid -> fuera de ventana (emails a cola data/email_queue.json).
+- R1: InfoJobs JSON 20 términos x todas las categorías, 7 días, novedades >= 2026-10-19 12:30 UTC (235 ofertas): Cibernos Especialista Aplicaciones e IA (grado + 3a + Python/.NET + certificación cloud), METRICA Python agentes IA (3a Python), Comercializadora Mediterránea Junior Data & AI (Castellón presencial, ingeniería + Python/SQL avanzado, 20-25k), Abalia/Mensoft/AgioGlobal (Angular/Java/.NET). Nada >=7.
+Ronda 1/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R2: Manfred API (26 activas, ninguna > id 8510; Quartex/Citibox/Prosper vistas), WebSearch x4 (Bizneo, n8n remoto ES, join.com junior TS, Next.js Euskadi/Navarra): solo Kibernum Chile híbrido, foros n8n (>30 días), TechTorch Notion (sin contenido legible); InfoJobs JSON next.js/shakers 15d: Valenciana de Productos Eléctricos (vista), Pilar de la Horadada editor 3D (sénior Three.js). Nada.
+Ronda 2/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R3: Get on Board API (16 consultas, 538 ofertas, novedades <4 días): todo híbrido Chile/Colombia, WiTi (vista), GoHighLevel CRM Specialist (inglés C1/C2). Lever jobgether (4.240 postings, <3 días, ES/EU/LATAM): Integration Engineer / Technical Integration Specialist España (soporte a clientes e-commerce en inglés, 5.5). Fuentes nuevas probadas: Adzuna, Jooble, devjobsscanner (403/Cloudflare), HelloWork FR (accesible, pero francés). Nada >=7.
+Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 5.5
+- R4: Workable search API (14 términos x ES/PT/MX/AR/CO/Remote, >= 2026-10-14; 673 ofertas): WorkMotion AI engineer agentic remoto CET (3a Python + inglés fluido, 4), Intetics ML/Data, RevStar Data & AI (LATAM), SupportYourApp/Pearl (vistas), Hilo IT freelance. Nada.
+Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: 5.5
+- R5: Tecnoempleo curl (19 términos, exp <=3a, >= 2026-10-16; 123 ofertas): Avature Web Implementation Consultant remoto (HTML/CSS/JS + clientes, 'Proficient in English', 1 día oficina; 6.5), Michael Page Full Stack Python FastAPI + React Vitoria (3a, Python/SQL Server/Windows Server; 6), Rawson Consultor FullStack (.NET Core 2a), Arelance/Social You/Grupo NS/PANEL (vistas). Nada >=7.
+Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6.5
