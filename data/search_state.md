@@ -82,3 +82,13 @@ Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 6
 Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
 - R10: Tecnoempleo 2a pasada (maquetador, html css, tailwind, programador/desarrollador junior, web developer, integraciones, chatbot, ia generativa, make zapier, gipuzkoa, bizkaia, navarra, vue, shopify, prompt): Responsable IA MP Bizkaia (grado+3a DL), AI Software Engineer BCN (agentic senior), resto C++/Java/RPA/sistemas/managers. Nada nuevo >=7.
 Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R11: webs de empresas >=7 sin contacto (Ipartek: informacion@ pero Mounir YA les escribio en 2025 -> no se envia; Grupo Lemasa/Energia Duero sin email publicado; IA-Developer -> EMAIL ENVIADO espontaneo a info@ia-developer.com).
+Ronda 11/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R12: WebSearch agencias Donostia React, startups Bilbao TS, software Gipuzkoa JS, Pamplona/Vitoria junior, Bizkaia Talent: Vicomtech (grado obligatorio), CEIT (ingles alto + liderazgo), Plexus Senior, IT Partner .NET (visto). Nada.
+Ronda 12/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R13: buscador michaelpage.es (15 keywords): Desarrollador Fullstack Madrid (ingenieria+ingles fluido+Java), Junior IT Specialist (soporte, FP), resto automatizacion industrial/PLC. Nada nuevo (Maquetador Malaga ya evaluado).
+Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R14: buscador randstad.es (12 keywords, 43 ofertas): Fullstack Next.js+Python Viladecans (4-5a, C1), AI Engineer Madrid (Python 3a, B2), Especialista MCP PubMatic (Grado, Python, AdTech, B2), resto CNC/PLC/comercial. Nada.
+Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R15: Welcome to the Jungle via API Algolia (CSEKHVMS53, indice wttj_jobs_production_es, filtro offices ES/PT, <30d, 17 terminos): Galadrim (visto, master), LanguageWire (visto), Spendesk (ingles, experimentado), NTT DATA (Cobol/GIS/AWS), Aily Labs (3a ML). Nada. TRUCO: WTTJ Algolia funciona con curl.
+Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
