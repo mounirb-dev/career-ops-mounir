@@ -102,3 +102,13 @@ Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Ma
 Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
 - R20: SmartRecruiters search API publica (jobs.smartrecruiters.com/sr-jobs/search, 13 keywords, filtro paises UE/LATAM <30d): Devoteam Frontend Vue (vista; 3a Vue), Devoteam Nearshore Full-Stack Lisboa (5+a, ingles), Inetum (vista), NielsenIQ MX remoto (local), Sopra/ALTEN/Talan FR (frances/presencial). Nada. TRUCO: SmartRecruiters search funciona con curl.
 Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R21: SmartRecruiters search en espanol/portugues (14 keywords): SGS Madrid (CFGS DAM/DAW + Excel avanzado), KOSTAL practicas MX, Inetum/Devoteam vistas, Bosch BR. Nada.
+Ronda 21/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R22: Landing.jobs API (600 ofertas, <30d): Octo Health Junior AI Engineer RN Lisboa (React Native + grado + ingles fluido, 5.5), ANNEA Junior Full-Stack Lisboa (Python/NestJS, ingles, hibrido; 6). JustJoin.it API 503. Nada >=7.
+Ronda 22/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R23: Tecnoempleo /ofertas-trabajo/<provincia> (gipuzkoa, bizkaia, navarra, alava, cantabria, la-rioja, burgos, teletrabajo; 2 paginas c/u): listado generico, solo Java/datos/sistemas/consultoria (Easy Things soporte, ZYLK vision artificial, Seltime, Serem). Nada.
+Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R24: WebSearch n8n 100% remoto ES, agencias automatizacion 'trabaja con nosotros', AI automation junior EU, startup IA Next.js+Supabase, Benicarlo/Valencia low-code: Maisa AI AI Automation Consultant (grado + ingles fluido, 6.5), Selectos Gestion Petrer (FP DAW/DAM), Workana/Twine freelance (tarifas bajas/sin fecha). Nada >=7.
+Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
+- R25: reevaluacion bajo regla UE: Softeta Junior Full-stack (ya no publicada -> cerrada), BC Tecnologia/NUBO (sin cambios, <7), AvaiBook/SimpsonScarborough (ya tienen CV). Workable search Lituania: Teltonika Junior/Mid Node.js Vilnius presencial 6.5 (ingles bueno exigido).
+Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Michael Page Maquetador Malaga)
