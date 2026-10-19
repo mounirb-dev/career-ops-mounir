@@ -380,3 +380,15 @@ Ronda 17/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 6.5
 - R19: WebSearch x3 agencias web/IA en Donostia/Euskadi/Debagoiena: **CodeSyntax (Eibar, 24 personas, cooperativa; Python/Plone/Django + React (iCert para Irizar) + WordPress; info@codesyntax.com publicado en su web)** -> EMAIL ESPONTÁNEO ENVIADO con CV adjunto (verificado). HG Developers (Ermua) sin web de empleo. Además: corregidas las tildes de 17 CVs antiguos y el email erróneo 'mouunirbella' en 7 CVs; PDFs regenerados.
 Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 7.0 (CodeSyntax espontánea)
+- R20: WebSearch agencias web Gipuzkoa + consultoras IA País Vasco y revisión de sus webs (Kewomedia: sedes Asturias/Galicia, solo vacante Senior; CoreBasque.ai: consultoría SEO/IA sin equipo técnico visible; HorkIA, ERBI, SANCANTIA, Resolvo: solo emails comerciales; Malakita, Lantalau: estudios WordPress pequeños sin empleo). Ninguna con encaje claro para candidatura espontánea. Nada.
+Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R21: talent.com ES 15 términos x 6 ubicaciones (último día, 73 tarjetas): sg tech Desarrollador/a Frontend Vue 3 / Node.js Madrid (Vue 3 obligatorio, no consta en cv.md; ~6), CT Ingenieros Desarrollador DAM Valladolid (título DAM), Hitachi Chatbot Solution Architect (arquitecto), Azertium Power Platform (vista). Nada >=7.
+Ronda 21/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R22: InfoJobs JSON 25 términos amplios (desarrollador, software, web, digital, ecommerce, shopify, hubspot, power automate, rpa, consultor ia, product engineer...) todas las categorías >= 17/10 (766 ofertas): Farmacia Valenzuela Desarrollador web Next.js + SEO/SEM + Ads Llinars del Vallès (media jornada -> salario previsible < 2.000 EUR/mes; SEO/Google Ads/GA4 NO CUMPLE; ~6), Marmoles Castan digitalización, FCC Back-End presencial. Torre API ('Invalid request'). Nada >=7.
+Ronda 22/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R23: Debegesa (agencia de desarrollo de Debabarrena, Eibar): solo plazas técnicas propias (innovación/empresa) y portal gestionandote.com vacío; Lanbide buscador OF_RES_BUSQUEDA_OFERTAS ahora devuelve 404. Nada.
+Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R24: WebSearch x3 (join.com, Factorial job_posting, startups IA n8n/TypeScript) + webs: MarsBased AI-Native TypeScript Engineer remoto Europa (Senior 5+ años + inglés fluido -> 4), SEK Education Group AI Engineer / Automation Builder Madrid (Make/n8n + APIs LLM: ya NO figura en el RSS de Teamtailor empleo.sek.es -> cerrada), Sunwise (MX, Python). TRUCO: careers Teamtailor tienen /jobs.rss. Nada vigente >=7.
+Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R25: webs de empleo de empresas de software de Euskadi no vistas (LIN3S, Irontec, ZYLK, Ibaiondo, apiumhub...): Irontec (Bilbao, software libre; perfiles 'Web front, back & mobile', admite FP Superior) solo acepta CV por formulario con reCAPTCHA -> aplicar manualmente (https://www.irontec.com/envianos-tu-cv/); LIN3S (Teamtailor: solo MarTech junio); ZYLK (Java/Big Data/Liferay). Nada >=7 con oferta.
+Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 7.0
