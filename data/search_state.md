@@ -339,3 +339,36 @@ Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 9.0 (Carpas Zaragoza)
 - InfoJobs JSON por palabras clave en TODAS las categorías (no solo Informática) dio la mejor de esta ejecución (Carpas Zaragoza): repetir con 7-15 días.
 - Seguimiento: respuesta de administracion@carpaszaragoza.com (enviado 2026-10-19 10:04 UTC con CV adjunto).
 - Fuentes nuevas probadas: Breezy HR JSON (<slug>.breezy.hr/json), Hireline (pocas ofertas), Jobint/Bumeran (solo AR responde).
+
+## Sesión 2026-10-19 ~1240 UTC (nueva ejecución, contador reiniciado)
+- NOTA: InfoJobs JSON ahora exige User-Agent de navegador completo + Referer (con 'Mozilla/5.0' a secas devuelve 456).
+- R1: InfoJobs JSON 41 términos x todas las categorías, 7 días, novedades >= 2026-10-18 06:00 (871 ofertas, 235 de empresas no vistas): LOAD Programador web Málaga (jQuery/VB6/ColdFusion, legacy), Financiera El Corte Inglés Analista Junior CX e IA (no dev, 17k), Randstad Técnico de Digitalización (Salesforce/funcional), becas. Nada.
+Ronda 1/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R2: Tecnoempleo curl 23 términos x 2 páginas (555 ofertas, >= 17/10): Serem/GMV/Digital Talent/Grupo Digital (senior/Java/datos), Scento Staff Next.js Berlín (staff), Avature Web Implementation (vista). Nada.
+Ronda 2/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R3: Workable search API 15 términos x 13 ubicaciones UE/LATAM/Remote (2.556 ofertas, >= 14/10): EY/Accenture Grecia (presencial, griego), RevStar Data & AI MX/CL/CO, Hilo IT Systems, Walaris, Usercentrics, GoodHabitz (vistas). Nada.
+Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R4: Get on Board API 20 términos (<10 días, seniority <= semi-senior; 575 ofertas): JLV Construction GoHighLevel CRM & Automation (inglés C1/C2, 1.700-2.100 USD), WiTi Node (vista), resto híbrido Chile/Colombia/México. Nada.
+Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R5: Apify sigue bloqueado ('Monthly usage hard limit exceeded'). NUEVAS FUENTES Free-Work (FR; API /api/job_postings?searchKeywords=&order=publishedAt: 658 ofertas, full remote no senior >= 12/10: solo TOSCA) y net-empregos.com (PT; HTML iso-8859-1): IT House AI Software Engineer Lisboa (4-6a), Full-Stack Porto (Java+grado+inglés), Zumub PHP. Adzuna/Jooble/startup.jobs 403. Nada.
+Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: n/a
+- R6: APIs remotas (Lever jobgether 4.000+, Remotive, Jobicy, Himalayas, RemoteOK, WWR RSS; >= 16/10, geo UE/LATAM/anywhere): jobgether 'Founding Engineer' España remoto (2a o builder; LLM/agentes en producción + arquitectura + ownership con el fundador; empresa oculta; ~6.5), jobgether Technical Integration Specialist / Integration Engineer España (soporte cliente e-commerce, inglés; ~5.5), Laminar Projects AI Engineer PL/PT. Nada >=7.
+Ronda 6/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R7: Manfred API (27 activas, máx. id 8510 sin cambios), Domestika Atom (solo diseño/prácticas), JobFluent 8 términos x 4 ciudades (nada < 5 días). Nada.
+Ronda 7/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R8: NUEVAS FUENTES probadas: Ticjob (RSS https://ticjob.es/esp/rss: casi todo Grupo Digital SAP/Java/datos), EuroTechJobs (senior/Japón), relocate.me (senior), Adzuna/Jooble/startup.jobs (403). Nada.
+Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R9: InfoJobs JSON Informática últimas 24 h (15 páginas, 175 ofertas): Eroski Analista Informático Elorrio híbrido 2 días (cerca de Bergara, pero perfil sistemas/funcional, requisitos mínimos no visibles: detalle InfoJobs bloqueado; ~5.5), Fundación Fomento Innovación Industrial Programador Getafe (CFGS + VisualStudio/SQL Server; ~6), IRIUM Python Agentes IA (vista, Python), ZYDIA ERP, codafish Node/Serverless (vista). Nada >=7.
+Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R10: WebSearch x4 (n8n junior España, Next.js remoto Europa, full stack LATAM contractor, programador web Gipuzkoa): CryptoFiscal Junior AI & Automation Operator (n8n community, part-time 500 USD/mes < 2.000 -> descartada), Jaiar Labs (GoB, Python), Periferia IT n8n (3a+ AWS/K8s), Twine/Workana freelance, Iberempleos Gipuzkoa (.NET, cerrada). Nada.
+Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R11: n8n community categoría Jobs (id 13) vía JSON, temas >= 05/10 (20): solo gigs/for-hire/revenue share (Shopify+n8n 35 USD/h part-time, SEA Singapur, Osmium creators). Nada de empleo.
+Ronda 11/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R12: Remote Rocketship (__NEXT_DATA__ initialJobOpenings) 14 roles x spain/portugal/europe/latin-america/mexico/argentina (711 ofertas, >= 17/10, no senior/lead): IDS Comercial (vista, 30k MXN), SupportYourApp L2 (Macedonia del Norte). Nada.
+Ronda 12/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R13: SmartRecruiters search API 20 términos multi-idioma x 2 páginas (1.422 ofertas, países UE/LATAM, >= 15/10): Devoteam AI-Native Developer Toulouse (FR presencial), Quadient Agentic AI CZ, Septeo Fullstack IA Montpellier (FR), Colliers/Inetum/Devoteam Vue (vistas), Bosch prácticas. Nada.
+Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R14: scan ATS (Ashby/Lever/Greenhouse) 88 slugs nuevos ES/LATAM/IA de voz y agentes (sequra, jobandtalent, playtomic, wallbox, voicemod, genially, carto, paack, civitatis, landbot, nowports, yuno, uala, humand, nuvemshop, crehana, n8n, make, relevanceai, voiceflow, botpress, langchain, vapi, parloa, polyai, sierra...; 21 boards, 961 postings, >= 12/10): ElevenLabs (vista), jobandtalent helpdesk, Make IT Praga, LangChain US/SG. Nada.
+Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R15: itjobs.pt 12 términos (ids > 517900, 48 nuevas): team.it Junior Fullstack TS/React Lisboa (inglés B2 mínimo -> descartada), Bee Engineering Node (3a+), Feel Group Especialista IA Porto (licenciatura + Python/ML), Unlocking Tech (vista), Devoteam Angular, Profidata (vista). Nada.
+Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 6.5
