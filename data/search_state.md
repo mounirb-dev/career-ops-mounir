@@ -392,3 +392,17 @@ Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 7.0
 Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 7.0
 - R25: webs de empleo de empresas de software de Euskadi no vistas (LIN3S, Irontec, ZYLK, Ibaiondo, apiumhub...): Irontec (Bilbao, software libre; perfiles 'Web front, back & mobile', admite FP Superior) solo acepta CV por formulario con reCAPTCHA -> aplicar manualmente (https://www.irontec.com/envianos-tu-cv/); LIN3S (Teamtailor: solo MarTech junio); ZYLK (Java/Big Data/Liferay). Nada >=7 con oferta.
 Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R26: InfoJobs JSON provincias Gipuzkoa, Bizkaia, Álava y Navarra, todas las categorías, 7 días (832 ofertas, novedades >= 18/10 12:00): MELT .NET Donostia, NETT prácticas, automatización industrial (Mula Robots, SAPA), Eroski (vista). Nada.
+Ronda 26/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R27: NUEVA FUENTE vacantesdigitales.com (agregador LATAM; /empleos/remoto, /vacantes/busquedas/<q>): Belo 'Programador Junior Full Stack React y Node.js' remoto LATAM contractor (encaje alto, pero publicada hace 8 meses y marcada 'posiblemente ya no está disponible' -> no verificada), Daniel A. Ferrero AI Engineer n8n (hace 6 meses, inglés avanzado), CodersLink AI Engineer n8n (hace 3 meses, inglés avanzado, part-time). remotojob.com sin listados parseables. Nada vigente.
+Ronda 27/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R28: NUEVA FUENTE Jobspresso (RSS https://jobspresso.co/feed/?post_type=job_listing, 3 páginas): Stripe Solutions Engineer AI Build (EE.UU.), Linear Product Engineer (Norteamérica), Affirm SE I Fullstack (EE.UU.), Mozilla WebCompat (CA/FR/DE/UK, inglés). Todo fuera de zona o inglés. Nada.
+Ronda 28/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R29: Wellfound /location/spain vía Browserless: Workato (8-10a), Topsort BCN (dos meses), 'Full-stack software development' remoto Europa (3a, hace 3 meses), Multiverse Computing San Sebastián (vista), Payhawk, lemon.io (5a). Nada reciente.
+Ronda 29/30 - 10/10 encontradas: 0 - mejor nota: 7.0
+- R30: Gmail respuestas 7 días (Carpas Zaragoza, BITIB, MigmaAI, Duotach, IA-Developer, Cardeseo, CodeSyntax): solo el acuse de recibo de Cardeseo (ya conocido). InfoJobs JSON publicadas desde las 12:35 UTC (Informática + 9 palabras clave): Abalia Angular, Experis sistemas, Luca TIC Senior, Serviguide Go. Nada.
+Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 7.0 (CodeSyntax espontánea)
+## Pendiente próxima ejecución
+- Aplicar manualmente (Mounir): Irontec (formulario con reCAPTCHA, perfil web front/back), además de los pendientes anteriores: Hays startup AI-native BCN (9.5), Clubs de Fitness DiR (9), Bifront Connect Lisboa (8), duvo.ai (7.5), haddock (8.5), Entrena Virtual (8).
+- Seguimiento: respuestas de info@codesyntax.com (enviado 2026-10-19 13:00 UTC con CV adjunto) y administracion@carpaszaragoza.com.
+- Fuentes nuevas de esta ejecución: Free-Work (FR), net-empregos (PT), Ticjob RSS, vacantesdigitales.com (LATAM), Jobspresso RSS, Teamtailor /jobs.rss de cada empresa. InfoJobs JSON necesita User-Agent de navegador completo + Referer.
