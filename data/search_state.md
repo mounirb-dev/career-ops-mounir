@@ -135,3 +135,13 @@ Ronda 3/30 - 10/10 encontradas: 0 - mejor nota: 5.5
 Ronda 4/30 - 10/10 encontradas: 0 - mejor nota: 5.5
 - R5: WebSearch B2 Performance n8n (no existe en resultados), Recruitee Full Stack Spain, vagas Portugal; Lever API jobgether (3551 postings, 18 dev EU/LATAM <30d): Frontend Developer React Espana (3a + 2a React + Redux; 6.5), Full Stack Engineer IA (Python/K8s), FDE (5a), Svelte (B2), RoR. Nada >=7. TRUCO: api.lever.co/v0/postings/jobgether?mode=json lista miles de ofertas remotas por pais (Spain/Portugal/Mexico...).
 Ronda 5/30 - 10/10 encontradas: 0 - mejor nota: 6.5
+- R6: NUEVA FUENTE Manfred API publica (www.getmanfred.com/api/v2/public/offers?lang=ES&onlyActive=true + /offers/<id>): 28 activas. **Entrena Virtual Product Engineer (Alcorcon hibrido 2d, Next/Node/WordPress/IA, hasta 50k, sin titulacion/ingles, publicada 2026-10-02): 8.0** (falta: testing unit/E2E, Express, MySQL/Firestore, GCP; hibrido Madrid). Manfred pide perfil -> aplicar manualmente. CV generado. Quartex (7a Java). Tambien probadas: 4dayweek API (empresas bloqueadas), WorkingNomads API, Hireline (HTML), EuropeRemotely (403).
+Ronda 6/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
+- R7: WorkingNomads API (46, nada), scan ATS (Ashby/Lever/Greenhouse) 90 slugs startups ES/FR (Factorial, TravelPerk, Typeform, Wallapop, Glovo, Doctolib, Qonto, Alan, Pennylane, Doctrine, Mistral, Photoroom, Dust...; 35 boards): Docplanner/Alan (vistas), Doctolib/Doctrine practicas (grado), Backmarket experienced. Nada.
+Ronda 7/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
+- R8: scan ATS 110 slugs LATAM (Nubank, Rappi, Clip, Konfio, Bitso, VTEX, Stone, Clara, Addi, RD Station, nearshore Wizeline/Santex/Encora...; 19 boards): todo hibrido local LATAM, B2, 3-5a o no-dev. Nada.
+Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
+- R9: Browserless smartscraper Indeed ES (n8n 14d: solo n8n GmbH; react/next/node 7d: Visia C#, PromoFarma SE, IT Partner Junior Front Python+IA, resto senior/Java). Indeed viewjob exige login/captcha -> no verificable (no se usa). Careerjet API 403, Opcionempleo/Jobatus JS, Primerempleo informatica (solo soporte), DocMorris careers (JS). Nada verificable >=7.
+Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
+- R10: Workable search API 14 terminos nuevos (product engineer, programador, chatbot, make.com, zapier, webflow, shopify, maquetador, ai automation, integration engineer...) x ES/PT/MX/AR/CO/CL/UY/PE/Remote (<30d, 88 cand.): HeadQuarters AI Solutions Engineer MX (Python prod, 5), Hyprwork funnel dev CO, Jalasoft/Azumo/Dev.Pro (.NET, contenidos). Nada.
+Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
