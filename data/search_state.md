@@ -247,3 +247,5 @@ Ronda 17/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN
 Ronda 18/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
 - R19: Lever jobgether (3.753 postings, <10d, Spain/Portugal/LATAM remoto, no senior): Full Stack Engineer agentes/RAG, Frontend React (Redux), FDE Agile, Full Stack (Golang/Java, 3a), AI Enablement Specialist (Claude/Sana/Notion; inglés), AI Trainers (idiomas). Empresas ocultas y requisitos en inglés; nada verificable >=7.
 Ronda 19/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
+- R20: scan ATS (ats.py: Ashby/Lever/Greenhouse) 85 slugs nuevos de startups ES/LATAM (maisa, kittl, clarity-ai, genially, seedtag, wallbox, freepik, holded, playtomic, bitpanda, jobandtalent, clara, yuno, addi, fintual, toku...; 14 boards, 426 postings): Clara (todo híbrido local MX/CO/AR -> fuera zona), Bitpanda (prácticas QA), Jobandtalent (helpdesk), Yuno/Fintual/Toku (LATAM local). Nada.
+Ronda 20/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (Hays startup AI-native BCN)
