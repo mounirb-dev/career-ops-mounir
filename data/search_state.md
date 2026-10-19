@@ -145,3 +145,13 @@ Ronda 8/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
 Ronda 9/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
 - R10: Workable search API 14 terminos nuevos (product engineer, programador, chatbot, make.com, zapier, webflow, shopify, maquetador, ai automation, integration engineer...) x ES/PT/MX/AR/CO/CL/UY/PE/Remote (<30d, 88 cand.): HeadQuarters AI Solutions Engineer MX (Python prod, 5), Hyprwork funnel dev CO, Jalasoft/Azumo/Dev.Pro (.NET, contenidos). Nada.
 Ronda 10/30 - 10/10 encontradas: 0 - mejor nota: 8.0 (Entrena Virtual)
+- R11: NUEVAS FUENTES Domestika jobs (Atom feed /es/jobs: Introvisual WordPress+PHP+SEO Oviedo 5.5) y JobFluent (listados /es/empleos-remoto|barcelona|madrid|valencia ?q=; fecha solo en tarjetas 'Anadida hace X dias'): **MigmaAI Full-Stack Developer (Next.js/TS, Node, IA; Stockholm/BCN/Remote): 9.5** -> EMAIL ENVIADO info@migma.ai. Agentero Frontend UI (sin fecha, 7), TuLotero (sin fecha, 6.5), haddock (4a), resto senior/PHP/Ruby.
+Ronda 11/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R12: JobFluent 2a pasada (10 queries x 4 ciudades; 34 nuevas): **haddock AI Engineer - Internal Agents & Automations (BCN hibrido, 32-48k, TS/MCP/n8n-like; JobFluent hace 13 dias): 8.5**, CV generado, aplicar manualmente (sin email). Omnios (3a), OpenSistemas WordPress (3a), BlinkLearning (grado+PHP), Doofinder (Elixir), Holaluz (Vue), Menhir (grado+ingles avanzado). TRUCO: jobs.haddock.app es Teamtailor.
+Ronda 12/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R13: JobFluent 3a pasada (12 queries: developer, web, producto, agentes, llm, claude, tailwind, product engineer...): Cala (Python/FastAPI), Mango Agentic AI (3a+grado+ingles alto), Uxia (3a), NPAW (grado+Java), VML (data eng), Outpost24 (5a). Nada.
+Ronda 13/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R14: WebSearch (programador web junior Euskadi/Navarra, AI automation engineer n8n ES remoto, full stack LATAM+Espana contractor Next.js): solo agregadores/ofertas caducadas (DailyRemote hidden company ago-2026, Launchpad senior LATAM). Torre search API (400), agentic-engineering-jobs.com (API v1 500; listados Spain/n8n todos 'Expired'). Nada.
+Ronda 14/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R15: Teamtailor RSS 120 slugs nuevos (consultoras/hostings/industria vasca/SaaS ES): solo ERNI (React 5a+grado, AI infra ingles), Mercadona Tech SRE 5a, idealista no-dev. Nada.
+Ronda 15/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
