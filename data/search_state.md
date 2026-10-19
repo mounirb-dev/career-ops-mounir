@@ -175,3 +175,16 @@ Ronda 23/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
 Ronda 24/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
 - R25: boards startups ES (startupxplore login, startupjobs 403, trabajoenstartups feed vacio, startupvalencia/iamtalent/barcelonaactiva no accesibles) + Workable search 8 terminos genericos x 10 ciudades ES/PT (<10d): MORO MES (Siemens), Oxford Quantum Circuits (cuantica). Nada.
 Ronda 25/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R26: WebSearch agencias automatizacion IA n8n 'trabaja con nosotros' y agencias web Gipuzkoa Next.js: **Duotach** (consultora n8n + Claude Code + WhatsApp chatbots, Buenos Aires, clientes en Espana) -> EMAIL espontaneo a contact@duotach.com con CV por enlace. n8n GmbH (empresa ya vista), Jobgether n8n expert (partner oculto). Gipuzkoa: sin agencias con vacantes en resultados.
+Ronda 26/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R27: WebSearch agencias n8n/WhatsApp Euskadi-Navarra (solo freelancers Upwork/Fiverr), startup IA Espana n8n+Next+Supabase (solo Upwork/Malt), ranking Upliora/Javadex de agencias IA por ciudad (autopromocion, sin vacantes ni emails de empleo). Nada.
+Ronda 27/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R28: Get on Board API 18 queries (espana, spain, madrid, barcelona, europa, typescript, next.js, n8n, ia generativa, agentes, automatizacion, integraciones, low code, wordpress, frontend, fullstack; fully_remote o pais ES/PT, <30d, <=semi-senior): solo WiTi (vista). Nada.
+Ronda 28/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R29: Workable search API 8 terminos dev x 8 paises LATAM (<14d): ALTEN Mexico Jr FullStack/FrontEnd (hibrido Puebla, fuera zona), Doris Peters (hibrido Costa Rica, .NET), resto EE.UU./Canada. Nada.
+Ronda 29/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+- R30: barrido final: Tecnoempleo <2 dias (COBOL, Business Analyst IA, jefes de proyecto Cajamar, formador IA, consultoria datos), Manfred (28 activas, sin nuevas), Domestika (practicas/diseno/video). Nada.
+Ronda 30/30 - 10/10 encontradas: 0 - mejor nota: 9.5 (MigmaAI)
+## Pendiente proxima ejecucion
+- Fuentes nuevas productivas: Manfred API publica, JobFluent (listados con 'Anadida hace X dias'), Domestika Atom, YC jobs data-page, Remote Rocketship __NEXT_DATA__, Lever jobgether. Revisarlas primero (solo novedades).
+- Seguimiento: respuestas de info@migma.ai y contact@duotach.com (enviados 2026-10-19). haddock y Entrena Virtual: aplicar manualmente (Teamtailor / Manfred).
